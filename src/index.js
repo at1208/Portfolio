@@ -1,5 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/app';
+ import { BrowserRouter, Route } from 'react-router-dom'
+import Home from './components/home/home'
+import About from './components/about/about'
+import Contact from './components/contact/contact'
+import Hobbies from './components/hobbies/hobbies'
+import Portfolio from './components/portfolio/portfolio'
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(  <div>
+                  <BrowserRouter>
+                  <div>
+                  <Route path='/' component={Home}/>
+                  <Route path='/about' component={About}/>
+                  <Route path='/contact' component={Contact}/>
+                  <Route path='/hobbies' component={Hobbies}/>
+                  <Route path='/portfolio' component={Portfolio}/>
+                  </div>
+                  </BrowserRouter >
+                  </div> , document.getElementById('root'));
