@@ -2,23 +2,38 @@
   height:200px;
   width:200px;
   margin-left: 80px;
-  margin-right: 270px;
+  margin-right: 220px;
 
 }
 .h2{
-  height:220px;
+  height:320px;
+
 
 }
 .h3{
-  height:220px;
-  border-radius: 105px;
+  height:200px;
+  border-radius: 200px;
 
 }
 .h4{
   width: 800px;
 }
 .h5{
-  margin-bottom: 10px;
-   height: 40px;
-  width:600px
+
+  margin-bottom: 15px;
+   height: 20px;
+
+  margin-left:10px;
+}
+.h6{
+  width:80px;
+  height:20px;
+  background-color: white
+}
+.h7{
+  margin-top: 20px;
+
+}
+.h8{
+   
 }
