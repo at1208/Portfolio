@@ -1,6 +1,9 @@
-
+.a1{
+  color:#c31432;
+}
 .a2{
   height: 500px;
+  font-family: 'Quicksand', sans-serif;
 }
 .jumbotron{
   margin-bottom: 10px;

@@ -3,16 +3,24 @@
   width:200px;
   margin-left: 80px;
   margin-right: 220px;
+  background-color:
 
 }
 .h2{
   height:320px;
 
 
+
+
 }
 .h3{
-  height:200px;
+  height:240px;
   border-radius: 200px;
+  width:240px;
+  margin-left: 70px;
+  margin-bottom:120px;
+  margin-top: 35px;
+
 
 }
 .h4{
@@ -23,17 +31,49 @@
   margin-bottom: 15px;
    height: 20px;
 
-  margin-left:10px;
+  margin-left:8px;
 }
 .h6{
   width:80px;
   height:20px;
-  background-color: white
+  background-color: #BDBDBD;
+  color: black ;
+  border-radius: 32px 0px 0px 32px;
 }
 .h7{
   margin-top: 20px;
 
 }
 .h8{
-   
+   height:800px;
+   width: 400px;
+
+
+}
+.h9{
+  margin-top: 0px;
+
+}
+.h10{
+  padding-top: 20px;
+  margin-top: 50px;
+  height:210px;
+
+/*   border : 3px solid lightgreen; */
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.h11{
+  height:20px;
+}
+.h12{
+  color: black;
+font-family: 'Cinzel', serif;
+font-weight: bold;
+
+
+}
+.h13{
+  font-family: 'Quicksand', sans-serif;
 }
