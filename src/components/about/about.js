@@ -1,5 +1,6 @@
 import React from 'react';
 import './about.css'
+import { Link } from 'react-router-dom'
 
 const About = () => {
   return <div className='container-fluid'>
@@ -13,7 +14,7 @@ const About = () => {
 
                          <h1 className='r3'>Who is this Guy</h1>
                              <div className='container'>
-                                 <i class="fa fa-github s1" style={{ fontSize:'25px',color:'#211f1f'}}></i>
+                                 <a href='www.linkedin.com'><i class="fa fa-github s1" style={{ fontSize:'25px',color:'#211f1f'}}></i></a>
                                  <i class="fa fa-linkedin-square s1" style={{ fontSize:'25px',color:'#0077B5'}}></i>
                                  <i class="fa fa-facebook-official s1" style={{ fontSize:'25px', color:'#3b5998'}} ></i>
                              </div>
