@@ -11,9 +11,7 @@ const App = () => {
            </div>
            <div className='a3 conatiner-fluid'>
            <div className='row col-lg-12 justify-content-center'>
-           <div className='col-lg-1'>
-           <Link to='/'><Button name='Home'/></Link>
-           </div>
+            
            <div className='col-lg-1'>
           <Link to='/about'><Button name='About'/></Link>
            </div>

@@ -18,10 +18,6 @@
   height:240px;
   border-radius: 200px;
   width:240px;
-  margin-left: 70px;
-  margin-bottom:120px;
-  margin-top: 55px;
-
 
 }
 .h4{
@@ -30,14 +26,17 @@
 .h5{
 
   margin-bottom: 15px;
-   height: 16px;
+   height: 40px;
 
   margin-left:8px;
 }
 .h6{
   width:90px;
   height:16px;
-  background-color: #BDBDBD;
+  background: #D3CCE3;
+ background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);
+ background: linear-gradient(to right, #E9E4F0, #D3CCE3);
+
   color: black ;
   border-radius: 32px 0px 0px 32px;
 }
@@ -51,21 +50,9 @@
 
 
 }
-.h9{
-  margin-top: 0px;
 
-}
-.h10{
-  padding-top: 20px;
-  margin-top: 80px;
-  margin-bottom: 30px;
-  height:210px;
 
-/*   border : 3px solid lightgreen; */
-  margin-left: 50px;
-  margin-right: 50px;
 
-}
 .h11{
   height:20px;
 }
@@ -77,9 +64,13 @@ font-weight: bold;
 
 
 }
-.h13{
-  font-family: 'Quicksand', sans-serif;
-}
+
 .h14{
   color:grey;
+}
+.r2{
+  width:400px;
+}
+.s1{
+  margin: 5px
 }
