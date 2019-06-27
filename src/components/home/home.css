@@ -7,6 +7,10 @@
 }
 .jumbotron{
   margin-bottom: 10px;
+  background: #00c6ff;
+  background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+  background: linear-gradient(to right, #0072ff, #00c6ff);  
+
 }
 .a3{
   background-color: white;

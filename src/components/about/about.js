@@ -21,6 +21,10 @@ const About = () => {
              <h1 className='h6 text-center'>Css</h1><div className="progress-bar bg-info rounded" role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100">60%</div>
             </div>
 
+            <div className="progress h5">
+             <h1 className='h6 text-center'>Bootstrap</h1><div className="progress-bar bg-info rounded" role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100">  70%</div>
+            </div>
+
 
 
             <div className="progress h5">
@@ -37,6 +41,9 @@ const About = () => {
              <h1 className='h6 text-center'>Redux</h1><div className="progress-bar bg-info rounded" role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"> 50%</div>
              </div>
 
+             <div className="progress h5">
+              <h1 className='h6 text-center'>ReactNative</h1><div className="progress-bar bg-info rounded" role="progressbar" style={{width: '20%'}} ariaValuenow="20" ariaValuemin="0" ariaaluemax="100"> 20%</div>
+             </div>
 
              <div className="progress h5">
               <h1 className='h6 text-center'>Node</h1><div className="progress-bar bg-info rounded" role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100">  60%</div>
@@ -53,6 +60,7 @@ const About = () => {
             </div>
 
 
+
          </div>
 
          </div>
@@ -60,12 +68,12 @@ const About = () => {
          <div className='container-fluid float-left h9 col-lg-5'>
 
          <div className='card shadow text-center h10 '>
+             <h1 className='h13'>Who is this Guy ?</h1>
 
-                <p className='h12'>Aman Kumar Tiwari</p>
 
                 <p>I'm a Second year undergraduate student <br /> in Computer Science Engineering</p>
-                <li>Delhi, India</li>
-               <h1 className='h13'>Who is this Guy ?</h1>
+                <h6 className='h14'> -Delhi, India</h6>
+
          </div>
 
          </div>

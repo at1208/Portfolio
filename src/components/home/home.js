@@ -18,7 +18,7 @@ const App = () => {
           <Link to='/about'><Button name='About'/></Link>
            </div>
            <div className='col-lg-1'>
-          <Link to='/portfoliot'><Button name='Portfolio'/></Link>
+          <Link to='/portfolio'><Button name='Portfolio'/></Link>
            </div>
            <div className='col-lg-1'>
           <Link to='/hobbies'> <Button name='Hobbies'/></Link>
