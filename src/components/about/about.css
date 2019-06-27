@@ -6,14 +6,7 @@
   background-color:
 
 }
-.h2{
-  margin-top: 50px;
-  height:330px;
 
-
-
-
-}
 .h3{
   height:240px;
   border-radius: 200px;
@@ -23,13 +16,11 @@
 .h4{
   width: 800px;
 }
-.h5{
 
-  margin-bottom: 15px;
-   height: 40px;
-
-  margin-left:8px;
-}
+ .h5{
+   height:15px;
+   border-radius: 33px 0px 0px 33px;
+ }
 .h6{
   width:90px;
   height:16px;
@@ -40,10 +31,7 @@
   color: black ;
   border-radius: 32px 0px 0px 32px;
 }
-.h7{
-  margin-top: 20px;
 
-}
 .h8{
    height:800px;
    width: 400px;
@@ -69,8 +57,24 @@ font-weight: bold;
   color:grey;
 }
 .r2{
-  width:400px;
+  width:500px;
 }
 .s1{
   margin: 5px
+}
+.c1{
+  height: 60px;
+  width:200px;
+
+}
+.r3{
+  font-size: 34px;
+}
+.f1{
+  height:20px;
+  width: 90px;
+  background-color: black;
+}
+.j1{
+  margin-top: 50px;
 }
