@@ -3,6 +3,7 @@ import './about.css'
 import Facebook from './facebook'
 import Github from './github';
 import Linkedin from './linkedin'
+import { Link } from 'react-router-dom'
 
 
 const About = () => {
@@ -15,8 +16,8 @@ const About = () => {
 
               <h1 className=''>Who is this Guy</h1>
                   <div className='container'>
-                  <Github />
-                  <Linkedin/>
+                <a href='//github.com/at1208 '><Github /></a>
+                <a href='//linkedin.com/in/aman-tiwari-767a09172'> <Linkedin/> </a>
                   <Facebook />
                   </div>
              <br />

@@ -13,7 +13,7 @@ const App = () => {
            <div className='a3 conatiner'>
              <div className='row justify-content-center'>
                      <div className=''>
-                        <Link to='/about'><Button name='About'/></Link>
+                        <Link to='/about'  ><Button name='About'/></Link>
                      </div>
                      <div className=''>
                         <Link to='/portfolio'><Button name='Portfolio'/></Link>
