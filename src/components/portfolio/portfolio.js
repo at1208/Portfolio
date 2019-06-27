@@ -2,7 +2,7 @@ import React from 'react';
 import './portfolio.css'
 
 const About = () => {
-  return <div >
+  return <div className='container' >
 
          </div>
 }

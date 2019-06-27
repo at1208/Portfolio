@@ -19,9 +19,6 @@ const App = () => {
                         <Link to='/portfolio'><Button name='Portfolio'/></Link>
                      </div>
                      <div className=''>
-                        <Link to='/hobbies'> <Button name='Hobbies'/></Link>
-                     </div>
-                     <div className=''>
                         <Link to='/contact'><Button name='Contact'/></Link>
                      </div>
               </div>
