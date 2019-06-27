@@ -25,7 +25,7 @@ const About = () => {
 
                                 <div className='container c1'>
                     <i className='fa fa-university float-left'style={{fontSize:'25px'}} ></i>
-                    <h6 style={{fontSize:'13px'}} >Computer Science<h6 style={{fontSize:'11px'}} >2018-2022</h6></h6>
+                    <h6 style={{fontSize:'13px'}} >BTech, Computer Science<h6 style={{fontSize:'11px'}} >2018-2022</h6></h6>
                                 </div>
                       </div>
             </div>
@@ -40,42 +40,40 @@ const About = () => {
 
 
                <div className="progress h5">
-                  <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'20px' ,marginTop:'5px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >html </h1>80%</span></div>
-               </div>
-
-
-
-               <div className="progress h5">
-                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} >css 60%</h1></span></div>
+                  <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Html</h1>80%</span></div>
                </div>
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} > bootstrap 70%</h1></span></div>
+                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Css</h1> 60%</span></div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} >  javascript 60%</h1></span> </div>
+                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Bootstrap</h1> 70%</span></div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} >React 80%</h1></span> </div>
+                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >JavaScript</h1>60%</span> </div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} >redux 50%</h1></span> </div>
+                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >React</h1>80%</span> </div>
+               </div>
+
+               <div className="progress h5">
+                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Redux</h1>50%</span> </div>
                </div>
 
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded" role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} >node 60%</h1></span> </div>
+                   <div className="progress-bar bg-info rounded" role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Node.Js</h1>60%</span> </div>
                </div>
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"><span><h1 className='float-left'style={{ fontSize:'15px'}} > express 50%</h1></span></div>
+                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Express.Js</h1>50%</span></div>
                </div>
 
                <div className="progress h5">
-                  <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '20%'}} ariaValuenow="20" ariaValuemin="0" ariaaluemax="100"> <span><h1 className='float-left'style={{ fontSize:'15px'}} >mongo20%</h1></span> </div>
+                  <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '40%'}} ariaValuenow="40" ariaValuemin="0" ariaaluemax="100"> <span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >MongoDB</h1>40%</span> </div>
               </div>
 
          </div>

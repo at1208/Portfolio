@@ -9,19 +9,19 @@ const App = () => {
              <h1>Hello, I'm <span className='a1'>Aman Tiwari</span></h1>
              <h1>I'm a full stack web developer</h1>
            </div>
-           <div className='a3 conatiner-fluid'>
-           <div className='row col-lg-12 justify-content-center'>
-            
-           <div className='col-lg-1'>
+           <div className='a3 conatiner'>
+           <div className='row justify-content-center'>
+
+           <div className=''>
           <Link to='/about'><Button name='About'/></Link>
            </div>
-           <div className='col-lg-1'>
+           <div className=''>
           <Link to='/portfolio'><Button name='Portfolio'/></Link>
            </div>
-           <div className='col-lg-1'>
+           <div className=''>
           <Link to='/hobbies'> <Button name='Hobbies'/></Link>
            </div>
-           <div className='col-lg-1'>
+           <div className=''>
           <Link to='/contact'><Button name='Contact'/></Link>
            </div>
            </div>
