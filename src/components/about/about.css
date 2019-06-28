@@ -19,7 +19,7 @@
 
  .h5{
    margin-top: 8px;
-   height:20px;
+   height:25px;
    border-radius: 33px 33px 33px 33px;
  }
 .h6{
@@ -76,13 +76,19 @@ font-weight: bold;
   height:20px;
   width: 110px;
   color:black;
-  border-radius: 33px 133px 133px 33px;
-  background: #D3CCE3;
-  background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);
-  background: linear-gradient(to right, #E9E4F0, #D3CCE3);
+  border-radius: 33px 0px 0px 33px;
+  background: #FF512F;
+background: -webkit-linear-gradient(to right, #F09819, #FF512F);
+background: linear-gradient(to right, #F09819, #FF512F);  
 
 
 }
 .j1{
   margin-top: 50px;
+}
+.t1{
+  background: #F09819;
+background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);
+background: linear-gradient(to right, #EDDE5D, #F09819);
+
 }

@@ -40,40 +40,40 @@ const About = () => {
 
 
                <div className="progress h5">
-                  <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Html</h1>80%</span></div>
+                  <div className="progress-bar t1 rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Html</h1>80%</span></div>
                </div>
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Css</h1> 60%</span></div>
+                   <div className="progress-bar t1 rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Css</h1> 60%</span></div>
                </div>
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Bootstrap</h1> 70%</span></div>
+                   <div className="progress-bar t1 rounded " role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Bootstrap</h1> 70%</span></div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >JavaScript</h1>60%</span> </div>
+                 <div className="progress-bar t1 rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >JavaScript</h1>60%</span> </div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >React</h1>80%</span> </div>
+                 <div className="progress-bar t1 rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >React</h1>80%</span> </div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Redux</h1>80%</span> </div>
+                 <div className="progress-bar t1 rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Redux</h1>80%</span> </div>
                </div>
 
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded" role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Node.Js</h1>60%</span> </div>
+                   <div className="progress-bar t1 rounded" role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Node.Js</h1>60%</span> </div>
                </div>
 
                <div className="progress h5">
-                   <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Express.Js</h1>50%</span></div>
+                   <div className="progress-bar t1 rounded " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >Express.Js</h1>50%</span></div>
                </div>
 
                <div className="progress h5">
-                  <div className="progress-bar bg-info rounded " role="progressbar" style={{width: '40%'}} ariaValuenow="40" ariaValuemin="0" ariaaluemax="100"> <span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >MongoDB</h1>40%</span> </div>
+                  <div className="progress-bar t1 rounded " role="progressbar" style={{width: '40%'}} ariaValuenow="40" ariaValuemin="0" ariaaluemax="100"> <span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >MongoDB</h1>40%</span> </div>
               </div>
 
          </div>
