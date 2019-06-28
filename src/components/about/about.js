@@ -12,7 +12,7 @@ const About = () => {
                     <img className="h3 shadow " src="aman.jpg"  alt='' />
             </div>
 
-            <div className='container card text-center shadow '>
+            <div className='container  text-center shadow '>
 
               <h1 className=''>Who is this Guy</h1>
                   <div className='container'>
@@ -35,7 +35,7 @@ const About = () => {
 
 
 
-         <div className='container card shadow j1'>
+         <div className='container shadow j1'>
 
 
 
