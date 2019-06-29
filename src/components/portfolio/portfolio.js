@@ -2,7 +2,7 @@ import React from 'react';
 import './portfolio.css'
 
 const About = () => {
-  return <div className='container' >
+  return <div className='u1 container shadow card' >
 
          </div>
 }

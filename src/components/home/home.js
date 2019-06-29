@@ -10,7 +10,7 @@ const App = () => {
                    <h1>I'm a full stack web developer</h1>
               </div>
 
-           <div className='a3 conatiner'>
+           <div className='a3 container-fluid'>
              <div className='row justify-content-center'>
                      <div className=''>
                         <Link to='/about'  ><Button name='About'/></Link>
