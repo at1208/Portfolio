@@ -16,8 +16,8 @@ const About = () => {
 
               <h1 className=''>Who is this Guy</h1>
                   <div className='container'>
-                <a href='//github.com/at1208 '><Github /></a>
-                <a href='//linkedin.com/in/aman-tiwari-767a09172'> <Linkedin/> </a>
+                <a href='https://github.com/at1208'><Github /></a>
+                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin/> </a>
                   <Facebook />
                   </div>
              <br />

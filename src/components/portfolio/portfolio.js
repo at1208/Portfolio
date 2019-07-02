@@ -13,10 +13,10 @@ const About = () => {
                   <hr />
                  <div className='container'>
                      <span  className='container shadow   l1'>
-                      <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
+                      <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue' }}></i>
                       First Released
                      </span>
-                     <span  className='container shadow   l1'>
+                     <span  className='container shadow   l1' style={{  fontWeight:'bold' }}>
                      13 May 2018
                      </span>
                     <div className='container shadow l2 '><i className='fa fa-github' /> <a href='https://github.com/at1208/Chillax'>https://github.com/at1208/Chillax</a></div>
@@ -34,7 +34,7 @@ const About = () => {
                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
                         First Released
                        </span>
-                       <span  className='container shadow col-xm l1'>
+                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
                        18 May 2018
                         </span>
                           <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/SearchBar</a></div>
@@ -51,7 +51,7 @@ const About = () => {
                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
                        First Released
                       </span>
-                      <span  className='container shadow col-xm l1'>
+                      <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
                       31 May 2018
                        </span>
                          <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/Shopping'>https://github.com/at1208/Shopping</a></div>
@@ -68,7 +68,7 @@ const About = () => {
                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
                         First Released
                        </span>
-                       <span  className='container shadow col-xm l1'>
+                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
                        24 May 2018
                         </span>
                           <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/LangSelector'>https://github.com/at1208/LangSelector</a></div>
@@ -85,7 +85,7 @@ const About = () => {
                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
                        First Released
                       </span>
-                      <span  className='container shadow col-xm l1'>
+                      <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
                       18 May 2018
                        </span>
                          <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/Geolocation'>https://github.com/at1208/Geolocation</a></div>
@@ -103,7 +103,7 @@ const About = () => {
                          <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
                          First Released
                         </span>
-                        <span  className='container shadow col-xm l1'>
+                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
                         13 Feb 2018
                          </span>
                            <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/Weather-finder'>https://github.com/at1208/Weather-finder</a></div>
