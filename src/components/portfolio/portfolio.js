@@ -1,6 +1,7 @@
 import React from 'react';
 import './portfolio.css'
 
+
 const About = () => {
   return <div className='container-fluid' >
          <div className='row justify-content-center '>
@@ -11,14 +12,16 @@ const About = () => {
                   <h1 className='v1' >Chillax</h1>
                   <hr />
                  <div className='container'>
-                     <span  className='container shadow col-xm l1'>
+                     <span  className='container shadow   l1'>
                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'blue'}}></i>
                       First Released
                      </span>
-                     <span  className='container shadow col-xm l1'>
+                     <span  className='container shadow   l1'>
                      13 May 2018
-                      </span>
+                     </span>
+                    <div className='container shadow l2 '><i className='fa fa-github' /> <a href='https://github.com/at1208/Chillax'>https://github.com/at1208/Chillax</a></div>
                  </div>
+
                 </div>
               </div>
               <div className='col-lg-3 shadow container  text-center u1'>
@@ -34,6 +37,7 @@ const About = () => {
                        <span  className='container shadow col-xm l1'>
                        18 May 2018
                         </span>
+                          <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/SearchBar</a></div>
                    </div>
                 </div>
               </div>
@@ -50,6 +54,7 @@ const About = () => {
                       <span  className='container shadow col-xm l1'>
                       31 May 2018
                        </span>
+                         <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/Shopping'>https://github.com/at1208/Shopping</a></div>
                   </div>
                 </div>
               </div>
@@ -66,6 +71,7 @@ const About = () => {
                        <span  className='container shadow col-xm l1'>
                        24 May 2018
                         </span>
+                          <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/LangSelector'>https://github.com/at1208/LangSelector</a></div>
                    </div>
                 </div>
               </div>
@@ -82,6 +88,7 @@ const About = () => {
                       <span  className='container shadow col-xm l1'>
                       18 May 2018
                        </span>
+                         <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/Geolocation'>https://github.com/at1208/Geolocation</a></div>
                   </div>
                 </div>
               </div>
@@ -99,6 +106,7 @@ const About = () => {
                         <span  className='container shadow col-xm l1'>
                         13 Feb 2018
                          </span>
+                           <div className='container shadow l2'><i className='fa fa-github' /> <a href='https://github.com/at1208/Weather-finder'>https://github.com/at1208/Weather-finder</a></div>
                     </div>
                 </div>
               </div>
