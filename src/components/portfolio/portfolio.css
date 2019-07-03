@@ -3,7 +3,7 @@
   width:320px;
   margin: 10px;
 
-   
+
   border-radius: 6px 6px 6px 6px;
 
 }
@@ -25,14 +25,28 @@
 
 }
 .v1{
+  background-color: yellow;
   font-size: 30px;
   opacity: 0.77
 }
 .l1{
   font-size: 12px;
+  background-color: yellow;
 
 }
 .l2{
   width: 275px;
   font-size: 12px;
+  background-color: yellow;
+}
+.p1{
+
+  background: #00d2ff;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.p2{
+  width:100px;
+  margin-left: 100px;
 }
