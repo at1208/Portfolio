@@ -1,6 +1,6 @@
 .u1{
   height:450px;
-  width:320px;
+  width:360px;
   margin: 10px;
 
 
@@ -39,7 +39,7 @@
 }
 .i1{
   height:200px;
-  width:270px;
+  width:320px;
   margin-top: 10px;
   border-radius: 6px 6px 0px 0px;
 
@@ -66,9 +66,9 @@
 
 }
 .l2{
-  width: 275px;
+
   font-size: 12px;
- 
+
   /* background-color: yellow; */
 }
 .p1{
@@ -81,4 +81,8 @@
 .p2{
   width:60px;
   margin-left: 110px;
+}
+.n1{
+  width:278px;
+
 }
