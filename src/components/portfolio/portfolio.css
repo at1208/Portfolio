@@ -7,6 +7,36 @@
   border-radius: 6px 6px 6px 6px;
 
 }
+.o1{
+  border-style: solid;
+  border-color: white white Chartreuse white;
+
+}
+.o2{
+  border-style: solid;
+  border-color: white white Aqua white;
+
+}
+.o3{
+  border-style: solid;
+  border-color: white white  DeepPink  white;
+
+}
+.o4{
+  border-style: solid;
+  border-color: white white Red white;
+
+}
+.o5{
+  border-style: solid;
+  border-color: white white Yellow white;
+
+}
+.o6{
+  border-style: solid;
+  border-color: white white DodgerBlue white;
+
+}
 .i1{
   height:200px;
   width:270px;
@@ -25,19 +55,21 @@
 
 }
 .v1{
-  background-color: yellow;
+  /* background-color: yellow; */
   font-size: 30px;
   opacity: 0.77
 }
 .l1{
   font-size: 12px;
-  background-color: yellow;
+
+  /* background-color: yellow; */
 
 }
 .l2{
   width: 275px;
   font-size: 12px;
-  background-color: yellow;
+ 
+  /* background-color: yellow; */
 }
 .p1{
 
@@ -47,6 +79,6 @@
 
 }
 .p2{
-  width:100px;
-  margin-left: 100px;
+  width:60px;
+  margin-left: 110px;
 }
