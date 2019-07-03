@@ -57,7 +57,8 @@
 .v1{
   /* background-color: yellow; */
   font-size: 30px;
-  opacity: 0.77
+
+  font-family: 'Poiret One', cursive;
 }
 .l1{
   font-size: 12px;
