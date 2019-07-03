@@ -58,7 +58,7 @@ const About = () => {
                  <div className="progress-bar t1 rounded " role="progressbar" style={{width: '60%'}} ariaValuenow="60" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >JavaScript</h1>60%</span> </div>
                </div>
 
-               <div className="progress h5">
+               <div className="progress  h5">
                  <div className="progress-bar t1 rounded " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'10px'}} ><h1 className='float-left f1'style={{ fontSize:'15px'}} >React</h1>80%</span> </div>
                </div>
 
