@@ -93,55 +93,64 @@
 }
 .r100{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: Chartreuse;
+  background-color:  Chartreuse;
+  /* border-bottom-style: solid;
+  border-bottom-color: Chartreuse; */
   font-weight: bold;
 }
 .r101{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: Aqua;
+  background-color: Aqua;
+  /* border-bottom-style: solid;
+  border-bottom-color: Aqua; */
     font-weight: bold;
 }
 .r102{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: DeepPink;
+  background-color:DeepPink;
+  /* border-bottom-style: solid;
+  border-bottom-color: DeepPink; */
     font-weight: bold;
 }
 .r103{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: Orange;
+  background-color:Orange;
+  /* border-bottom-style: solid;
+  border-bottom-color: Orange; */
     font-weight: bold;
 }
 .r104{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color:  Red;
+    background-color:Red;
+  /* border-bottom-style: solid;
+  border-bottom-color:  Red; */
     font-weight: bold;
 }
 .r105{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: DodgerBlue;
+  background-color:DodgerBlue;
+  /* border-bottom-style: solid;
+  border-bottom-color: DodgerBlue; */
     font-weight: bold;
 }
 .r106{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: Chartreuse;
+  background-color:Chartreuse;
+  /* border-bottom-style: solid;
+  border-bottom-color: Chartreuse; */
     font-weight: bold;
 }
 .r107{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: Aqua;
+  background-color: Aqua;
+  /* border-bottom-style: solid;
+  border-bottom-color: Aqua; */
     font-weight: bold;
 }
 .r108{
   margin: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: DeepPink;
+  background-color:DeepPink;
+  /* border-bottom-style: solid;
+  border-bottom-color: DeepPink; */
     font-weight: bold;
 }

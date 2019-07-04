@@ -16,7 +16,7 @@ const About = () => {
                     </div>
                  <div className='container'>
                      <span  className='container shadow l1'>
-                      <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' Chartreuse' }}></i>
+                      <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' ' }}></i>
                       First Released
                      </span>
                      <span  className='container shadow   l1' style={{  fontWeight:'bold' }}>
@@ -46,7 +46,7 @@ const About = () => {
                    </div>
                    <div className='container'>
                        <span  className='container shadow col-xm l1'>
-                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Aqua'}}></i>
+                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                         First Released
                        </span>
                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
@@ -77,7 +77,7 @@ const About = () => {
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
-                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'DeepPink'}}></i>
+                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                        First Released
                       </span>
                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
@@ -109,7 +109,7 @@ const About = () => {
                    </div>
                    <div className='container'>
                        <span  className='container shadow col-xm l1'>
-                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Orange'}}></i>
+                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                         First Released
                        </span>
                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
@@ -142,7 +142,7 @@ const About = () => {
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
-                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'red'}}></i>
+                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                        First Released
                       </span>
                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
@@ -176,7 +176,7 @@ const About = () => {
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
-                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'DodgerBlue'}}></i>
+                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                          First Released
                         </span>
                         <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }} >
@@ -209,7 +209,7 @@ const About = () => {
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
-                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Chartreuse'}}></i>
+                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                          First Released
                         </span>
                         <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }} >
@@ -242,7 +242,7 @@ const About = () => {
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
-                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Aqua'}}></i>
+                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                          First Released
                         </span>
                         <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
@@ -255,7 +255,6 @@ const About = () => {
                     <h6>Technologies Used</h6>
                     <span className='shadow container r107 '>Express</span>
                     <span className='shadow container r107'> MongoDB</span>
-                    <span className='shadow container r107'> EJS</span>
                     <span className='shadow container r107'> PassportJS</span>
                     <span className='shadow container r107'> Html</span>
                     <span className='shadow container r107'> Css</span>
@@ -276,7 +275,7 @@ const About = () => {
                                   </div>
                                   <div className='container'>
                                       <span  className='container shadow col-xm l1'>
-                                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'DeepPink'}}></i>
+                                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                                        First Released
                                       </span>
                                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
