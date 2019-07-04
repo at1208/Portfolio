@@ -20,7 +20,7 @@ const About = () => {
                       First Released
                      </span>
                      <span  className='container shadow   l1' style={{  fontWeight:'bold' }}>
-                     13 May 2018
+                     13 May 2019
                      </span>
                     <div className='container shadow l2 n1'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Chillax'>https://github.com/at1208/Chillax</a></div>
                  </div>
@@ -43,7 +43,7 @@ const About = () => {
                         First Released
                        </span>
                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
-                       18 May 2018
+                       18 May 2019
                         </span>
                           <div className='container shadow l2 n1'> <i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/SearchBar</a> </div>
                    </div>
@@ -65,7 +65,7 @@ const About = () => {
                        First Released
                       </span>
                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
-                      31 May 2018
+                      31 May 2019
                        </span>
                          <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Shopping'>https://github.com/at1208/Shopping</a></div>
                   </div>
@@ -83,11 +83,11 @@ const About = () => {
                    </div>
                    <div className='container'>
                        <span  className='container shadow col-xm l1'>
-                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Red'}}></i>
+                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Orange'}}></i>
                         First Released
                        </span>
                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
-                       24 May 2018
+                       24 May 2019
                         </span>
                           <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/LangSelector'>https://github.com/at1208/LangSelector</a></div>
                    </div>
@@ -105,11 +105,11 @@ const About = () => {
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
-                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Yellow'}}></i>
+                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'red'}}></i>
                        First Released
                       </span>
                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
-                      18 May 2018
+                      18 May 2019
                        </span>
                          <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Geolocation'>https://github.com/at1208/Geolocation</a></div>
                   </div>
@@ -118,25 +118,94 @@ const About = () => {
 
 
               <div className='col-lg-3  shadow container  text-center u1 o6'>
-                <img className='    i1' src=' ' alt=''/>
+                <img className=' i1' src=' ' alt=''/>
                 <div className='container text-center   k1'>
                   <h1 className='v1'>Weather Finder</h1>
                     <hr />
-                    <div className='shadow p2 o6'>
-                    <a   href=' '>Live</a>
+                    <div className='shadow p2 '>
+
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
                          <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'DodgerBlue'}}></i>
                          First Released
                         </span>
-                        <span  className='container shadow col-xm l1' >
-                        13 Feb 2018
+                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }} >
+                        13 Feb 2019
                          </span>
                            <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Weather-finder'>https://github.com/at1208/Weather-finder</a></div>
                     </div>
                 </div>
               </div>
+
+
+              <div className='col-lg-3  shadow container  text-center u1 o1'>
+                <img className='    i1' src=' ' alt=''/>
+                <div className='container text-center   k1'>
+                  <h1 className='v1'>Songs</h1>
+                    <hr />
+                    <div className='shadow p2 o1'>
+                    <a  href=' '>Live</a>
+                    </div>
+                    <div className='container'>
+                        <span  className='container shadow col-xm l1'>
+                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Chartreuse'}}></i>
+                         First Released
+                        </span>
+                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }} >
+                        20 May 2019
+                         </span>
+                           <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Songs'>https://github.com/at1208/Songs</a></div>
+                    </div>
+                </div>
+              </div>
+
+
+
+              <div className='col-lg-3  shadow container  text-center u1 o2'>
+                <img className='    i1' src=' ' alt=''/>
+                <div className='container text-center   k1'>
+                  <h1 className='v1'>Bytebroo</h1>
+                    <hr />
+                    <div className='shadow p2 '>
+
+                    </div>
+                    <div className='container'>
+                        <span  className='container shadow col-xm l1'>
+                         <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'Aqua'}}></i>
+                         First Released
+                        </span>
+                        <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
+                        31 Jan 2019
+                         </span>
+                           <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/bytebroo.com'>https://github.com/at1208/bytebroo.com</a></div>
+                    </div>
+                </div>
+              </div>
+
+
+                            <div className='col-lg-3  shadow container  text-center u1 o3'>
+                              <img className='    i1' src=' ' alt=''/>
+                              <div className='container text-center   k1'>
+                                <h1 className='v1'>Techstack</h1>
+                                  <hr />
+                                  <div className='shadow p2 o3'>
+                                   <a  href='https://techstack.netlify.com'>Live</a>
+                                  </div>
+                                  <div className='container'>
+                                      <span  className='container shadow col-xm l1'>
+                                       <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: 'DeepPink'}}></i>
+                                       First Released
+                                      </span>
+                                      <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
+                                      4 Jun 2019
+                                       </span>
+                                         <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Techstack'>https://github.com/at1208/Techstack</a></div>
+                                  </div>
+                              </div>
+                            </div>
+
+
          </div>
          </div>
 }
