@@ -24,6 +24,13 @@ const About = () => {
                      </span>
                     <div className='container shadow l2 n1'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Chillax'>https://github.com/at1208/Chillax</a></div>
                  </div>
+             <div className='r11 col'>
+             <h6>Technologies Used</h6>
+             <span className='shadow container r100 '> React</span>
+             <span className='shadow container r100'> Youtube Api</span>
+             <span className='shadow container r100'> Css</span>
+
+             </div>
 
                 </div>
               </div>
@@ -47,6 +54,15 @@ const About = () => {
                         </span>
                           <div className='container shadow l2 n1'> <i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/SearchBar</a> </div>
                    </div>
+
+                   <div className='r11 col'>
+                   <h6>Technologies Used</h6>
+                   <span className='shadow container r101 '> React</span>
+                   <span className='shadow container r101'> unsplash Api</span>
+                   <span className='shadow container r101'> Css</span>
+
+                   </div>
+
                 </div>
               </div>
 
@@ -69,6 +85,16 @@ const About = () => {
                        </span>
                          <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Shopping'>https://github.com/at1208/Shopping</a></div>
                   </div>
+
+                  <div className='r11 col'>
+                  <h6>Technologies Used</h6>
+                  <span className='shadow container r102 '> React</span>
+                  <span className='shadow container r102 '> Redux</span>
+                  <span className='shadow container r102 '> Css</span>
+                  <span className='shadow container r102'> Bootstrap</span>
+
+                  </div>
+
                 </div>
               </div>
 
@@ -91,6 +117,17 @@ const About = () => {
                         </span>
                           <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/LangSelector'>https://github.com/at1208/LangSelector</a></div>
                    </div>
+
+                   <div className='r11 col'>
+                   <h6>Technologies Used</h6>
+                   <span className='shadow container r103 '> React</span>
+                   <span className='shadow container r103 '> Redux</span>
+                   <span className='shadow container r103'> Css</span>
+                   <span className='shadow container r103'> Bootstrap</span>
+
+                   </div>
+
+
                 </div>
               </div>
 
@@ -113,6 +150,18 @@ const About = () => {
                        </span>
                          <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Geolocation'>https://github.com/at1208/Geolocation</a></div>
                   </div>
+
+                  <div className='r11 col'>
+                  <h6>Technologies Used</h6>
+                  <span className='shadow container r104 '> React</span>
+                  <span className='shadow container r104'> Css</span>
+                  <span className='shadow container r104'> Bootstrap</span>
+                  <span className='shadow container r104'> Geolocation</span>
+
+
+                  </div>
+
+
                 </div>
               </div>
 
@@ -135,6 +184,17 @@ const About = () => {
                          </span>
                            <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Weather-finder'>https://github.com/at1208/Weather-finder</a></div>
                     </div>
+
+                    <div className='r11 col'>
+                    <h6>Technologies Used</h6>
+                    <span className='shadow container r105'> React</span>
+                    <span className='shadow container r105'> Bootstrap</span>
+                    <span className='shadow container r105'> Css</span>
+                    <span className='shadow container r105'> OpenWeatherMap Api</span>
+
+
+                    </div>
+
                 </div>
               </div>
 
@@ -145,7 +205,7 @@ const About = () => {
                   <h1 className='v1'>Songs</h1>
                     <hr />
                     <div className='shadow p2 o1'>
-                    <a  href=' '>Live</a>
+                    <a  href='https://songinfo.netlify.com'>Live</a>
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
@@ -157,6 +217,16 @@ const About = () => {
                          </span>
                            <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Songs'>https://github.com/at1208/Songs</a></div>
                     </div>
+
+                    <div className='r11 col'>
+                    <h6>Technologies Used</h6>
+                    <span className='shadow container r106 '> React</span>
+                    <span className='shadow container r106'> Css</span>
+                    <span className='shadow container r106'> Redux</span>
+                    <span className='shadow container r106'> Bootstrap</span>
+
+                    </div>
+
                 </div>
               </div>
 
@@ -180,6 +250,18 @@ const About = () => {
                          </span>
                            <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/bytebroo.com'>https://github.com/at1208/bytebroo.com</a></div>
                     </div>
+
+                    <div className='r11 col'>
+                    <h6>Technologies Used</h6>
+                    <span className='shadow container r107 '>Express</span>
+                    <span className='shadow container r107'> MongoDB</span>
+                    <span className='shadow container r107'> EJS</span>
+                    <span className='shadow container r107'> PassportJS</span>
+                    <span className='shadow container r107'> Html</span>
+                    <span className='shadow container r107'> Css</span>
+                    <span className='shadow container r107'> Bootstrap</span>
+                    </div>
+
                 </div>
               </div>
 
@@ -202,6 +284,17 @@ const About = () => {
                                        </span>
                                          <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Techstack'>https://github.com/at1208/Techstack</a></div>
                                   </div>
+
+                                  <div className='r11 col'>
+                                  <h6>Technologies Used</h6>
+                                  <span className='shadow container r108 '> React</span>
+                                  <span className='shadow container r108'> Redux</span>
+                                  <span className='shadow container r108'> Css</span>
+                                  <span className='shadow container r108'> Bootstrap</span>
+
+                                  </div>
+
+
                               </div>
                             </div>
 

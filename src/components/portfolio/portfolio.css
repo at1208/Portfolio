@@ -8,41 +8,41 @@
 
 }
 .o1{
-  border-style: solid;
-  border-color: white white Chartreuse white;
+  border-bottom-style: solid;
+  border-bottom-color: Chartreuse
 
 }
 .o2{
-  border-style: solid;
-  border-color: white white Aqua white;
+  border-bottom-style: solid;
+  border-bottom-color:  Aqua;
 
 }
 .o3{
-  border-style: solid;
-  border-color: white white  DeepPink  white;
+  border-bottom-style: solid;
+  border-bottom-color:   DeepPink;
 
 }
 .o4{
-  border-style: solid;
-  border-color: white white Orange white;
+ border-bottom-style: solid;
+ border-bottom-color:  Orange;
 }
 .o5{
 
-  border-style: solid;
-  border-color: white white Red white;
+  border-bottom-style: solid;
+  border-bottom-color:   Red;
 
 
 }
 .o6{
-  border-style: solid;
-  border-color: white white DodgerBlue white;
+  border-bottom-style: solid;
+  border-bottom-color:  DodgerBlue;
 
 }
 .i1{
   height:200px;
   width:320px;
   margin-top: 10px;
-   
+
 
   /* border: 1px solid black */
 }
@@ -86,4 +86,62 @@
 .n1{
   width:278px;
 
+}
+.r11{
+  margin-top: 20px;
+  font-size: 13px;
+}
+.r100{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: Chartreuse;
+  font-weight: bold;
+}
+.r101{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: Aqua;
+    font-weight: bold;
+}
+.r102{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: DeepPink;
+    font-weight: bold;
+}
+.r103{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: Orange;
+    font-weight: bold;
+}
+.r104{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color:  Red;
+    font-weight: bold;
+}
+.r105{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: DodgerBlue;
+    font-weight: bold;
+}
+.r106{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: Chartreuse;
+    font-weight: bold;
+}
+.r107{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: Aqua;
+    font-weight: bold;
+}
+.r108{
+  margin: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: DeepPink;
+    font-weight: bold;
 }
