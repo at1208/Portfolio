@@ -7,7 +7,7 @@ const About = () => {
          <div className='row justify-content-center'>
 
               <div className='col-lg-3 shadow container text-center u1 o1'>
-                <img className='i1' src=' ' alt=''/>
+                <img className='i1' src='chillax.gif' alt=''/>
                <div className='container text-center k1'>
                   <h1 className='v1' >Chillax</h1>
                   <hr />
@@ -37,7 +37,7 @@ const About = () => {
 
 
               <div className='col-lg-3 shadow container  text-center u1 o2'>
-                <img className='   i1' src=' ' alt=''/>
+                <img className='   i1' src='searchbar.gif' alt=''/>
                 <div className='container text-center  k1'>
                  <h1 className='v1'>SearchBar</h1>
                    <hr />
@@ -68,7 +68,7 @@ const About = () => {
 
 
               <div className='col-lg-3 shadow container  text-center u1 o3'>
-                <img className='    i1' src=' ' alt=''/>
+                <img className='    i1' src='shopping.gif' alt=''/>
                 <div className='container text-center  k1'>
                 <h1 className='v1'>Shopping</h1>
                   <hr />
