@@ -12,7 +12,7 @@ const About = () => {
                   <h1 className='v1' >Chillax</h1>
                   <hr />
                     <div className='shadow p2 o1'>
-                      <a  href='https://chillax.netlify.com'>Live</a>
+                      <a  href='https://chillax.netlify.com'> View Live</a>
                     </div>
                  <div className='container'>
                      <span  className='container shadow l1'>
@@ -42,7 +42,7 @@ const About = () => {
                  <h1 className='v1'>SearchBar</h1>
                    <hr />
                    <div className='shadow p2 o2'>
-                  <a href='https://searchkaro.netlify.com'>Live</a>
+                  <a href='https://searchkaro.netlify.com'>View Live</a>
                    </div>
                    <div className='container'>
                        <span  className='container shadow col-xm l1'>
@@ -73,7 +73,7 @@ const About = () => {
                 <h1 className='v1'>Shopping</h1>
                   <hr />
                   <div className='shadow p2 o3'>
-                  <a   href='https://shopsnow.netlify.com'>Live</a>
+                  <a   href='https://shopsnow.netlify.com'>View Live</a>
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
@@ -105,7 +105,7 @@ const About = () => {
                  <h1 className='v1'>Change Lang</h1>
                    <hr />
                    <div className='shadow p2 o4'>
-                    <a  href='https://changelang.netlify.com'>Live</a>
+                    <a  href='https://changelang.netlify.com'>View Live</a>
                    </div>
                    <div className='container'>
                        <span  className='container shadow col-xm l1'>
@@ -138,7 +138,7 @@ const About = () => {
                 <h1 className='v1'>Season</h1>
                   <hr />
                   <div className='shadow p2 o5'>
-                  <a   href='https://winsum.netlify.com'>Live</a>
+                  <a   href='https://winsum.netlify.com'>View Live</a>
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
@@ -205,7 +205,7 @@ const About = () => {
                   <h1 className='v1'>Songs</h1>
                     <hr />
                     <div className='shadow p2 o1'>
-                    <a  href='https://songinfo.netlify.com'>Live</a>
+                    <a  href='https://songinfo.netlify.com'>View Live</a>
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
@@ -271,7 +271,7 @@ const About = () => {
                                 <h1 className='v1'>Techstack</h1>
                                   <hr />
                                   <div className='shadow p2 o3'>
-                                   <a  href='https://techstack.netlify.com'>Live</a>
+                                   <a  href='https://techstack.netlify.com'>View Live</a>
                                   </div>
                                   <div className='container'>
                                       <span  className='container shadow col-xm l1'>
