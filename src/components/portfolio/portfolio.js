@@ -100,7 +100,7 @@ const About = () => {
 
 
               <div className='col-lg-3 shadow container   text-center u1 o4'>
-                <img className='     i1' src=' ' alt=''/>
+                <img className='     i1' src='changelang.gif' alt=''/>
                 <div className='container text-center  k1'>
                  <h1 className='v1'>Change Lang</h1>
                    <hr />
@@ -133,7 +133,7 @@ const About = () => {
 
 
               <div className='col-lg-3 shadow container   text-center u1 o5'>
-                <img className='     i1' src=' ' alt=''/>
+                <img className='     i1' src='season.gif' alt=''/>
                 <div className='container text-center  k1'>
                 <h1 className='v1'>Season</h1>
                   <hr />
@@ -200,7 +200,7 @@ const About = () => {
 
 
               <div className='col-lg-3  shadow container  text-center u1 o1'>
-                <img className='    i1' src=' ' alt=''/>
+                <img className='    i1' src='songs.gif' alt=''/>
                 <div className='container text-center   k1'>
                   <h1 className='v1'>Songs</h1>
                     <hr />
@@ -266,7 +266,7 @@ const About = () => {
 
 
                             <div className='col-lg-3  shadow container  text-center u1 o3'>
-                              <img className='    i1' src=' ' alt=''/>
+                              <img className='    i1' src='techstack.gif' alt=''/>
                               <div className='container text-center   k1'>
                                 <h1 className='v1'>Techstack</h1>
                                   <hr />
