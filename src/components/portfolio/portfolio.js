@@ -68,7 +68,7 @@ const About = () => {
 
 
               <div className='col-lg-3 shadow container  text-center u1 o3'>
-                <img className='    i1' src='shopping.gif' alt=''/>
+                <img className='    i1' src='shopping .gif' alt=''/>
                 <div className='container text-center  k1'>
                 <h1 className='v1'>Shopping</h1>
                   <hr />
