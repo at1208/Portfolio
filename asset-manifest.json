@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amantiwari/static/css/main.847c94d3.chunk.css",
+    "main.js": "/amantiwari/static/js/main.580b6e20.chunk.js",
+    "main.js.map": "/amantiwari/static/js/main.580b6e20.chunk.js.map",
+    "runtime~main.js": "/amantiwari/static/js/runtime~main.e558a5c2.js",
+    "runtime~main.js.map": "/amantiwari/static/js/runtime~main.e558a5c2.js.map",
+    "static/js/2.083e9f82.chunk.js": "/amantiwari/static/js/2.083e9f82.chunk.js",
+    "static/js/2.083e9f82.chunk.js.map": "/amantiwari/static/js/2.083e9f82.chunk.js.map",
+    "index.html": "/amantiwari/index.html",
+    "precache-manifest.237922f044972654c2090d9500bba57e.js": "/amantiwari/precache-manifest.237922f044972654c2090d9500bba57e.js",
+    "service-worker.js": "/amantiwari/service-worker.js",
+    "static/css/main.847c94d3.chunk.css.map": "/amantiwari/static/css/main.847c94d3.chunk.css.map"
+  }
+}
