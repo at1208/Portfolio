@@ -6,13 +6,47 @@ const About = () => {
   return <div className='container-fluid' >
          <div className='row justify-content-center'>
 
+
+         <div className='col-lg-3  shadow container  text-center u1 o3'>
+           <img className='i1' src='indianrailway.gif' alt=''/>
+           <div className='container text-center   k1'>
+             <h1 className='v1'>RailTrack</h1>
+               <hr />
+
+               <div className='container'>
+                   <span  className='container shadow col-xm l1'>
+                    <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
+                    First Released
+                   </span>
+                   <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
+                   9 Jul 2019
+                    </span>
+                      <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/IndianRailway'>https://github.com/at1208/IndianRailway</a></div>
+               </div>
+
+               <div className='r11 col'>
+               <h6>Technologies Used</h6>
+               <span className='shadow container r108 '>React</span>
+               <span className='shadow container r108'>IndianRailApi</span>
+               <span className='shadow container r108'> Css</span>
+               <span className='shadow container r108'> Bootstrap</span>
+
+               </div>
+
+
+           </div>
+         </div>
+
+
+
+
               <div className='col-lg-3 shadow container text-center u1 o1'>
                 <img className='i1' src='chillax.gif' alt=''/>
                <div className='container text-center k1'>
                   <h1 className='v1' >Chillax</h1>
                   <hr />
                     <div className='shadow p2 o1'>
-                      <a  href='https://chillax.netlify.com'> View Live</a>
+                      <a  href='https://chillax.netlify.com'>Preview</a>
                     </div>
                  <div className='container'>
                      <span  className='container shadow l1'>
@@ -36,44 +70,13 @@ const About = () => {
               </div>
 
 
-              <div className='col-lg-3 shadow container  text-center u1 o2'>
-                <img className='   i1' src='searchbar.gif' alt=''/>
-                <div className='container text-center  k1'>
-                 <h1 className='v1'>SearchBar</h1>
-                   <hr />
-                   <div className='shadow p2 o2'>
-                  <a href='https://searchkaro.netlify.com'>View Live</a>
-                   </div>
-                   <div className='container'>
-                       <span  className='container shadow col-xm l1'>
-                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
-                        First Released
-                       </span>
-                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
-                       18 May 2019
-                        </span>
-                          <div className='container shadow l2 n1'> <i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/SearchBar</a> </div>
-                   </div>
-
-                   <div className='r11 col'>
-                   <h6>Technologies Used</h6>
-                   <span className='shadow container r101 '> React</span>
-                   <span className='shadow container r101'> unsplash Api</span>
-                   <span className='shadow container r101'> Css</span>
-
-                   </div>
-
-                </div>
-              </div>
-
-
               <div className='col-lg-3 shadow container  text-center u1 o3'>
                 <img className='    i1' src='shopping .gif' alt=''/>
                 <div className='container text-center  k1'>
                 <h1 className='v1'>Shopping</h1>
                   <hr />
                   <div className='shadow p2 o3'>
-                  <a   href='https://shopsnow.netlify.com'>View Live</a>
+                  <a   href='https://shopsnow.netlify.com'>Preview</a>
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
@@ -99,13 +102,48 @@ const About = () => {
               </div>
 
 
+
+
+              <div className='col-lg-3 shadow container  text-center u1 o2'>
+                <img className='   i1' src='searchbar.gif' alt=''/>
+                <div className='container text-center  k1'>
+                 <h1 className='v1'>SearchBar</h1>
+                   <hr />
+                   <div className='shadow p2 o2'>
+                  <a href='https://searchkaro.netlify.com'>Preview</a>
+                   </div>
+                   <div className='container'>
+                       <span  className='container shadow col-xm l1'>
+                        <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
+                        First Released
+                       </span>
+                       <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
+                       18 May 2019
+                        </span>
+                          <div className='container shadow l2 n1'> <i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/SearchBar</a> </div>
+                   </div>
+
+                   <div className='r11 col'>
+                   <h6>Technologies Used</h6>
+                   <span className='shadow container r101 '> React</span>
+                   <span className='shadow container r101'> unsplash Api</span>
+                   <span className='shadow container r101'> Css</span>
+
+                   </div>
+
+                </div>
+              </div>
+
+
+
+
               <div className='col-lg-3 shadow container   text-center u1 o4'>
                 <img className='     i1' src='changelang.gif' alt=''/>
                 <div className='container text-center  k1'>
                  <h1 className='v1'>Change Lang</h1>
                    <hr />
                    <div className='shadow p2 o4'>
-                    <a  href='https://changelang.netlify.com'>View Live</a>
+                    <a  href='https://changelang.netlify.com'>Preview</a>
                    </div>
                    <div className='container'>
                        <span  className='container shadow col-xm l1'>
@@ -138,7 +176,7 @@ const About = () => {
                 <h1 className='v1'>Season</h1>
                   <hr />
                   <div className='shadow p2 o5'>
-                  <a   href='https://winsum.netlify.com'>View Live</a>
+                  <a   href='https://winsum.netlify.com'>Preview</a>
                   </div>
                   <div className='container'>
                       <span  className='container shadow col-xm l1'>
@@ -205,7 +243,7 @@ const About = () => {
                   <h1 className='v1'>Songs</h1>
                     <hr />
                     <div className='shadow p2 o1'>
-                    <a  href='https://songinfo.netlify.com'>View Live</a>
+                    <a  href='https://songinfo.netlify.com'>Preview</a>
                     </div>
                     <div className='container'>
                         <span  className='container shadow col-xm l1'>
@@ -271,7 +309,7 @@ const About = () => {
                                 <h1 className='v1'>Techstack</h1>
                                   <hr />
                                   <div className='shadow p2 o3'>
-                                   <a  href='https://techstack.netlify.com'>View Live</a>
+                                   <a  href='https://techstack.netlify.com'>Preview</a>
                                   </div>
                                   <div className='container'>
                                       <span  className='container shadow col-xm l1'>
@@ -296,6 +334,8 @@ const About = () => {
 
                               </div>
                             </div>
+
+
 
 
          </div>
