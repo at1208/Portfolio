@@ -21,9 +21,29 @@
 
  .h5{
    margin-top: 8px;
-   height:25px;
-   border-radius: 33px 33px 33px 33px;
+   height:14px;
+
  }
+ .progress{
+   border-radius: 0px;
+   overflow: scroll;
+
+
+
+ }
+ .progress-bar{
+   color: black;
+   background-color: #0fbcf9
+ }
+.f100{
+  margin-top: 2px;
+  font-size: 10px;
+  float:right;
+  margin-right: 3px;
+}
+.f101{
+  font-size: 12px;
+}
 .h6{
   width:90px;
   height:16px;
@@ -71,32 +91,36 @@ font-weight: bold;
   width:250px;
 
 }
+.c100{
+  font-size: 14px;
+
+}
+.c101{
+  font-size: 11px;
+
+}
 .r3{
   font-size: 34px;
 }
 .f1{
-  height:20px;
+
+  height:15px;
   width: 110px;
   color:black;
-  border-radius: 33px 0px 0px 33px;
-  background: #FF512F;
-background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-background: linear-gradient(to right, #F09819, #FF512F);
+ background-color: #45aaf2
 
 
 }
 .j1{
-  margin-top: 50px;
-}
-.t1{
-  background: #F09819;
-background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);
-background: linear-gradient(to right, #EDDE5D, #F09819);
-
+  margin-top: 30px;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .v11{
- 
+ padding: 20px;
   height: 250px;
 }
 .v12{

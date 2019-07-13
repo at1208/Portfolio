@@ -5,11 +5,13 @@
   height: 400px;
   font-family: 'Quicksand', sans-serif;
 }
+.a222{
+  color:white;
+}
 .jumbotron{
   margin-bottom: 10px;
-  background: #36D1DC;
-  background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);
-  background: linear-gradient(to right, #5B86E5, #36D1DC);
+  background-color: #130f40;
+  border-radius:0px;
 }
 .a3{
   background-color: white;

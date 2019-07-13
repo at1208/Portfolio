@@ -23,10 +23,8 @@ const About = () => {
         <ChangeLang />
         <Songs />
         <SearchBar />
-
         <Season />
         <WeatherFinder />
-
         <Bytebroo />
 
 

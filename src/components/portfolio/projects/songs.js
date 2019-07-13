@@ -22,10 +22,10 @@ const Songs = () => {
 
           <div className='r11 col'>
           <h6>Technologies Used</h6>
-          <span className='shadow container r106 '> React</span>
-          <span className='shadow container r106'> Css</span>
-          <span className='shadow container r106'> Redux</span>
-          <span className='shadow container r106'> Bootstrap</span>
+          <span className='shadow container r100 '> React</span>
+          <span className='shadow container r100'> Css</span>
+          <span className='shadow container r100'> Redux</span>
+          <span className='shadow container r100'> Bootstrap</span>
 
           </div>
 

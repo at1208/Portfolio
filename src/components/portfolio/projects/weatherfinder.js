@@ -1,7 +1,7 @@
 import React from 'react';
 
 const WeatherFinder = () => {
-  return  <div className='col-lg-3  shadow container  text-center u1 o6'>
+  return  <div className='col-lg-3  shadow container  text-center u1 o4'>
                   <img className=' i1' src='weatherfinder.gif' alt=''/>
                   <div className='container text-center   k1'>
                     <h1 className='v1'>Weather Finder</h1>
@@ -24,10 +24,10 @@ const WeatherFinder = () => {
 
                       <div className='r11 col'>
                       <h6>Technologies Used</h6>
-                      <span className='shadow container r105'> React</span>
-                      <span className='shadow container r105'> Bootstrap</span>
-                      <span className='shadow container r105'> Css</span>
-                      <span className='shadow container r105'> OpenWeatherMap Api</span>
+                      <span className='shadow container r103'> React</span>
+                      <span className='shadow container r103'> Bootstrap</span>
+                      <span className='shadow container r103'> Css</span>
+                      <span className='shadow container r103'> OpenWeatherMap Api</span>
 
 
                       </div>

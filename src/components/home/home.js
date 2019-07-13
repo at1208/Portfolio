@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom'
 
 const App = () => {
   return <div>
-              <div className='a2 container-fluid card text-center jumbotron'>
-                   <h1>Hello, I'm <span className='a1'>Aman Tiwari</span></h1>
-                   <h1>I'm a full stack web developer</h1>
+              <div className='a2 container-fluid  text-center jumbotron'>
+                   <h1 className='a222'>Hello, I'm <span className='a1'>Aman Tiwari</span></h1>
+                   <h1 className='a222'>I'm a full stack web developer</h1>
               </div>
 
            <div className='a3 container-fluid'>

@@ -1,12 +1,12 @@
 import React from 'react';
 
 const ChangeLang = () => {
-  return <div className='col-lg-3 shadow container   text-center u1 o4'>
+  return <div className='col-lg-3 shadow container   text-center u1 o2'>
                   <img className='     i1' src='changelang.gif' alt=''/>
                   <div className='container text-center  k1'>
                    <h1 className='v1'>Change Lang</h1>
                      <hr />
-                     <div className='shadow p2 o4'>
+                     <div className='shadow p2 o2'>
                       <a  href='https://changelang.netlify.com'>Preview</a>
                      </div>
                      <div className='container'>
@@ -22,10 +22,10 @@ const ChangeLang = () => {
 
                      <div className='r11 col'>
                      <h6>Technologies Used</h6>
-                     <span className='shadow container r103 '> React</span>
-                     <span className='shadow container r103 '> Redux</span>
-                     <span className='shadow container r103'> Css</span>
-                     <span className='shadow container r103'> Bootstrap</span>
+                     <span className='shadow container r101 '> React</span>
+                     <span className='shadow container r101 '> Redux</span>
+                     <span className='shadow container r101'> Css</span>
+                     <span className='shadow container r101'> Bootstrap</span>
 
                      </div>
 

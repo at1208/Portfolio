@@ -1,12 +1,12 @@
 import React from 'react';
 
 const Shopping = () => {
-  return   <div className='col-lg-3 shadow container  text-center u1 o3'>
+  return   <div className='col-lg-3 shadow container  text-center u1 o2'>
       <img className='    i1' src='shopping .gif' alt=''/>
       <div className='container text-center  k1'>
       <h1 className='v1'>Shopping</h1>
         <hr />
-        <div className='shadow p2 o3'>
+        <div className='shadow p2 o2'>
         <a   href='https://shopsnow.netlify.com'>Preview</a>
         </div>
         <div className='container'>
@@ -22,10 +22,10 @@ const Shopping = () => {
 
         <div className='r11 col'>
         <h6>Technologies Used</h6>
-        <span className='shadow container r102 '> React</span>
-        <span className='shadow container r102 '> Redux</span>
-        <span className='shadow container r102 '> Css</span>
-        <span className='shadow container r102'> Bootstrap</span>
+        <span className='shadow container r107 '> React</span>
+        <span className='shadow container r107 '> Redux</span>
+        <span className='shadow container r107 '> Css</span>
+        <span className='shadow container r107'> Bootstrap</span>
 
         </div>
 

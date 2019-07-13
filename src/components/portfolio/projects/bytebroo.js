@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Bytebroo = () => {
-  return   <div className='col-lg-3  shadow container  text-center u1 o2'>
+  return   <div className='col-lg-3  shadow container  text-center u1 o1'>
       <img className='    i1' src=' ' alt=''/>
       <div className='container text-center   k1'>
         <h1 className='v1'>Bytebroo</h1>
@@ -22,12 +22,12 @@ const Bytebroo = () => {
 
           <div className='r11 col'>
           <h6>Technologies Used</h6>
-          <span className='shadow container r107 '>Express</span>
-          <span className='shadow container r107'> MongoDB</span>
-          <span className='shadow container r107'> PassportJS</span>
-          <span className='shadow container r107'> Html</span>
-          <span className='shadow container r107'> Css</span>
-          <span className='shadow container r107'> Bootstrap</span>
+          <span className='shadow container r100 '>Express</span>
+          <span className='shadow container r100'> MongoDB</span>
+          <span className='shadow container r100'> PassportJS</span>
+          <span className='shadow container r100'> Html</span>
+          <span className='shadow container r100'> Css</span>
+          <span className='shadow container r100'> Bootstrap</span>
           </div>
 
       </div>

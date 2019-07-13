@@ -1,12 +1,12 @@
 import React from 'react';
 
 const Season = () => {
-  return   <div className='col-lg-3 shadow container   text-center u1 o5'>
+  return   <div className='col-lg-3 shadow container   text-center u1 o6'>
       <img className='     i1' src='season.gif' alt=''/>
       <div className='container text-center  k1'>
       <h1 className='v1'>Season</h1>
         <hr />
-        <div className='shadow p2 o5'>
+        <div className='shadow p2 o6'>
         <a   href='https://winsum.netlify.com'>Preview</a>
         </div>
         <div className='container'>
@@ -22,10 +22,10 @@ const Season = () => {
 
         <div className='r11 col'>
         <h6>Technologies Used</h6>
-        <span className='shadow container r104 '> React</span>
-        <span className='shadow container r104'> Css</span>
-        <span className='shadow container r104'> Bootstrap</span>
-        <span className='shadow container r104'> Geolocation</span>
+        <span className='shadow container r105 '> React</span>
+        <span className='shadow container r105'> Css</span>
+        <span className='shadow container r105'> Bootstrap</span>
+        <span className='shadow container r105'> Geolocation</span>
 
 
         </div>
