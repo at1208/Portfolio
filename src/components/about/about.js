@@ -17,8 +17,8 @@ const About = () => {
               <h1 className='v12'>Who's this Guy ?</h1>
                   <div className='container'>
                 <a href='https://github.com/at1208'><Github /></a>
-                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin/> </a>
-                  <Facebook />
+                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/   https://www.facebook.com/profile.php?id=100025916961705'> <Linkedin/> </a>
+                  <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook/> </a>  
                   </div>
              <br />
                      <div className='container'>
@@ -76,7 +76,7 @@ const About = () => {
                </div>
 
                <div className="progress h5 ">
-                  <div className="progress-bar  " role="progressbar" style={{width: '40%'}} ariaValuenow="40" ariaValuemin="0" ariaaluemax="100"> <span style={{ fontSize:'14px' ,marginTop:'6px '}} ><h1 className='float-left f1'style={{ fontSize:'14px'}} ><span className='f101'>MongoDB</span></h1><span className='f100'>40%</span></span> </div>
+                  <div className="progress-bar  " role="progressbar" style={{width: '50%'}} ariaValuenow="50" ariaValuemin="0" ariaaluemax="100"> <span style={{ fontSize:'14px' ,marginTop:'6px '}} ><h1 className='float-left f1'style={{ fontSize:'14px'}} ><span className='f101'>MongoDB</span></h1><span className='f100'>50%</span></span> </div>
               </div>
 
          </div>

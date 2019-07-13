@@ -17,3 +17,10 @@
   background-color: white;
   margin-bottom: 30px;
 }
+.btn{
+      /* user-select: none; */
+}
+.btn-outline-primary {
+    color: #007bff;
+      border-color: rgba(0,123,255,.25);
+}
