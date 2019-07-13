@@ -27,8 +27,7 @@
  }
  .progress{
    border-radius: 0px;
-
-
+   width: 300px;
 
 
  }
@@ -115,20 +114,23 @@ font-weight: bold;
 }
 .j1{
   margin-top: 30px;
-  padding-left: 55px;
-  padding-right: 55px;
+
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.j100{
+  width:330px;
+}
 
 .v11{
- padding: 20px;
-  height: 250px;
+  padding-top: 20px;
+  width: 330px;
+  height: 300px;
 }
 .v12{
  font-family: 'Poiret One', cursive;
- padding-left: 20px;
-  padding-right: 20px;
+
+
 }
 .v13{
   width: 470px;

@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 
 const About = () => {
   return <div >
-            <div className='container-fluid text-center'>
+            <div className='container-fluid text-center justify-content-center'>
                     <img className="h3 shadow " src="aman.jpg"  alt='' />
             </div>
 
@@ -17,8 +17,8 @@ const About = () => {
               <h1 className='v12'>Who's this Guy ?</h1>
                   <div className='container'>
                 <a href='https://github.com/at1208'><Github /></a>
-                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/   https://www.facebook.com/profile.php?id=100025916961705'> <Linkedin/> </a>
-                  <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook/> </a>  
+                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin/> </a>
+                  <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook/> </a>
                   </div>
              <br />
                      <div className='container'>
@@ -38,7 +38,7 @@ const About = () => {
 
 
 
-         <div className='container shadow j1 '>
+         <div className='container shadow j1 j100 '>
 
 
 
