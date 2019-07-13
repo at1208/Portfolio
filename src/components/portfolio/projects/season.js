@@ -1,0 +1,38 @@
+import React from 'react';
+
+const Season = () => {
+  return   <div className='col-lg-3 shadow container   text-center u1 o5'>
+      <img className='     i1' src='season.gif' alt=''/>
+      <div className='container text-center  k1'>
+      <h1 className='v1'>Season</h1>
+        <hr />
+        <div className='shadow p2 o5'>
+        <a   href='https://winsum.netlify.com'>Preview</a>
+        </div>
+        <div className='container'>
+            <span  className='container shadow col-xm l1'>
+             <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
+             First Released
+            </span>
+            <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
+            18 May 2019
+             </span>
+               <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/Geolocation'>https://github.com/at1208/Geolocation</a></div>
+        </div>
+
+        <div className='r11 col'>
+        <h6>Technologies Used</h6>
+        <span className='shadow container r104 '> React</span>
+        <span className='shadow container r104'> Css</span>
+        <span className='shadow container r104'> Bootstrap</span>
+        <span className='shadow container r104'> Geolocation</span>
+
+
+        </div>
+
+
+      </div>
+    </div>
+
+}
+export default Season;
