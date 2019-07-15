@@ -11,6 +11,9 @@ import Songs from './projects/songs'
 import Bytebroo from './projects/bytebroo'
 import TechStack from './projects/techstack'
 import Starwar from './projects/starwar'
+import DailyNews from './projects/dailynews'
+import Routine from './projects/routine'
+import MusicAlbums from './projects/musicalbums'
 
 
 const About = () => {
@@ -25,6 +28,9 @@ const About = () => {
         <Songs />
         <SearchBar />
         <Season />
+        <DailyNews />
+        <MusicAlbums />
+        <Routine />
         <WeatherFinder />
         <Bytebroo />
 
