@@ -10,12 +10,13 @@ import WeatherFinder from './projects/weatherfinder'
 import Songs from './projects/songs'
 import Bytebroo from './projects/bytebroo'
 import TechStack from './projects/techstack'
+import Starwar from './projects/starwar'
 
 
 const About = () => {
   return <div className='container-fluid' >
          <div className='row justify-content-center'>
-
+        <Starwar />
         <RailTrack />
         <TechStack />
         <Shopping />
