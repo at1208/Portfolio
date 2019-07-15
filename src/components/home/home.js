@@ -3,6 +3,7 @@ import './home.css'
 import Button from '../common/button'
 import { Link } from 'react-router-dom'
 
+
 const App = () => {
   return <div>
               <div className='a2 container-fluid  text-center jumbotron'>

@@ -59,11 +59,11 @@ const About = () => {
                </div>
 
                <div className="progress  h5">
-                 <div className="progress-bar   " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'6px'}} ><h1 className='float-left f1'style={{ fontSize:'14px'}} ><span className='f101'>React</span></h1><span className='f100'>80%</span></span> </div>
+                 <div className="progress-bar   " role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'6px'}} ><h1 className='float-left f1'style={{ fontSize:'14px'}} ><span className='f101'>React</span></h1><span className='f100'>70%</span></span> </div>
                </div>
 
                <div className="progress h5">
-                 <div className="progress-bar " role="progressbar" style={{width: '80%'}} ariaValuenow="80" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'6px '}} ><h1 className='float-left f1'style={{ fontSize:'14px'}} ><span className='f101'>Redux</span></h1><span className='f100'>80%</span></span> </div>
+                 <div className="progress-bar " role="progressbar" style={{width: '70%'}} ariaValuenow="70" ariaValuemin="0" ariaaluemax="100"><span style={{ fontSize:'14px' ,marginTop:'6px '}} ><h1 className='float-left f1'style={{ fontSize:'14px'}} ><span className='f101'>Redux</span></h1><span className='f100'>70%</span></span> </div>
                </div>
 
 
