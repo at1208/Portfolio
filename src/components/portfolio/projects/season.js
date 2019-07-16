@@ -7,7 +7,7 @@ const Season = () => {
       <h1 className='v1'>Season</h1>
         <hr />
 
-        <a   href='https://winsum.netlify.com' className='shadow p2 '>Preview</a>
+        <a   href='https://winsum.netlify.com' className='shadow p2 '>View Live</a>
 
         <div  >
             <span  className='container shadow col-xm l1'>

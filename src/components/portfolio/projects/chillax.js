@@ -7,7 +7,7 @@ const Chillax = () => {
         <h1 className='v1' >Chillax</h1>
         <hr />
 
-            <a  href='https://chillax.netlify.com' className='shadow p2 '>Preview</a>
+            <a  href='https://chillax.netlify.com' className='shadow p2 '>View Live</a>
 
        <div  >
            <span  className='container shadow l1'>

@@ -7,7 +7,16 @@
   /* border-radius: 6px 6px 6px 6px; */
 
 }
+@media (max-width: 759px) {
+  .u1{
 
+    margin-bottom: 15px;
+
+
+    /* border-radius: 6px 6px 6px 6px; */
+
+  }
+}
 
 a{
   color: black
@@ -88,7 +97,7 @@ a:hover{
   /* background-color: yellow; */
 }
 .l2:hover{
- 
+
 }
 
 .p1{
@@ -99,13 +108,14 @@ a:hover{
 
 }
 .p2{
+  color: #d63031;
   background-color:#dff9fb;
   width:120px;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 3px;
   padding-bottom:3px;
-  font-weight: 100;
+  font-weight: 600;
 
 }
 .p2:hover{

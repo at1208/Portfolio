@@ -7,7 +7,7 @@ const ChangeLang = () => {
                    <h1 className='v1'>Change Lang</h1>
                      <hr />
 
-                      <a  href='https://changelang.netlify.com' className='shadow p2 '>Preview</a>
+                      <a  href='https://changelang.netlify.com' className='shadow p2 '>View Live</a>
 
                      <div  >
                          <span  className='container shadow col-xm l1'>

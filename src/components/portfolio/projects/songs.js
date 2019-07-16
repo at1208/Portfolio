@@ -7,7 +7,7 @@ const Songs = () => {
         <h1 className='v1'>Songs</h1>
           <hr />
 
-          <a  href='https://songinfo.netlify.com' className='shadow p2 '>Preview</a>
+          <a  href='https://songinfo.netlify.com' className='shadow p2 '>View Live</a>
 
           <div >
               <span  className='container shadow col-xm l1'>

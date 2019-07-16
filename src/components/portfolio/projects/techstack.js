@@ -7,7 +7,7 @@ const TechStack = () => {
                                   <h1 className='v1'>Techstack</h1>
                                     <hr />
 
-                                     <a  href='https://techstack.netlify.com'  className='shadow p2 '>Preview</a>
+                                     <a  href='https://techstack.netlify.com'  className='shadow p2 '>View Live</a>
 
                                     <div>
                                         <span  className='container shadow col-xm l1'>

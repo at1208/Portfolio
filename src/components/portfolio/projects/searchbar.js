@@ -7,7 +7,7 @@ const SearchBar = () => {
                    <h1 className='v1'>SearchBar</h1>
                      <hr />
 
-                    <a href='https://searchkaro.netlify.com' className='shadow p2 '>Preview</a>
+                    <a href='https://searchkaro.netlify.com' className='shadow p2 '>View Live</a>
 
                      <div >
                          <span  className='container shadow col-xm l1'>
