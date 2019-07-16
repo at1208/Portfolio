@@ -1,15 +1,15 @@
 import React from 'react';
 
 const SearchBar = () => {
-  return    <div className='col-lg-3 shadow container  text-center u1 o5'>
+  return    <div className='  shadow container  text-center u1 '>
                   <img className='   i1' src='searchbar.gif' alt=''/>
-                  <div className='container text-center  k1'>
+                  <div className='container text-center  '>
                    <h1 className='v1'>SearchBar</h1>
                      <hr />
-                     <div className='shadow p2 o5'>
-                    <a href='https://searchkaro.netlify.com'>Preview</a>
-                     </div>
-                     <div className='container'>
+
+                    <a href='https://searchkaro.netlify.com' className='shadow p2 '>Preview</a>
+
+                     <div >
                          <span  className='container shadow col-xm l1'>
                           <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
                           First Released

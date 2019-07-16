@@ -1,15 +1,15 @@
 import React from 'react';
 
 const DailyNews = () => {
-  return   <div className='col-lg-3 shadow container text-center u1 o3'>
+  return   <div className='  shadow container text-center u1 '>
       <img className='i1' src='dailynews.gif' alt=''/>
-     <div className='container text-center k1'>
+     <div className='container text-center '>
         <h1 className='v1' >DailyNews</h1>
         <hr />
 
-       <div className='container'>
+       <div  >
            <span  className='container shadow l1'>
-            <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' ' }}></i>
+            <i className='fa fa-calendar-check' style={{ marginRight: '10px' }}></i>
             First Released
            </span>
            <span  className='container shadow   l1' style={{  fontWeight:'bold' }}>
@@ -19,7 +19,7 @@ const DailyNews = () => {
        </div>
    <div className='r11 col'>
    <h6>Technologies Used</h6>
-   <span className='shadow container r102'> Newsapi.org Google-Api</span>
+   <span className='shadow container r102'> Newsapi.org GoogleApi</span>
    <span className='shadow container r102 '> React Native</span>
 
 
