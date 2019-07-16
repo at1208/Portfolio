@@ -118,6 +118,17 @@ a:hover{
   font-weight: 600;
 
 }
+.p3{
+ color:#3498db;
+  background-color:#dff9fb;
+  width:120px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 3px;
+  padding-bottom:3px;
+  font-weight: 600;
+
+}
 .p2:hover{
   background-color: #c7ecee;
   font-weight: bold;

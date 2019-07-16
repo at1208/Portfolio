@@ -14,6 +14,7 @@ import Starwar from './projects/starwar'
 import DailyNews from './projects/dailynews'
 import Routine from './projects/routine'
 import MusicAlbums from './projects/musicalbums'
+import Portfolio from './projects/portfolio'
 
 
 const About = () => {
@@ -25,6 +26,7 @@ const About = () => {
         <Shopping />
         <Chillax />
         <ChangeLang />
+        <Portfolio />
         <Songs />
         <SearchBar />
         <Season />
