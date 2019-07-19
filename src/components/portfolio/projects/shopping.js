@@ -1,7 +1,9 @@
 import React from 'react';
+import Slide from 'react-reveal/Slide';
 
 const Shopping = () => {
-  return   <div className='  shadow container  text-center u1'>
+  return    <Slide left>
+  <div className='  shadow container  text-center u1'>
       <img className='    i1' src='shopping .gif' alt=''/>
       <div className='container text-center  '>
       <h1 className='v1'>Shopping</h1>
@@ -31,5 +33,6 @@ const Shopping = () => {
 
       </div>
     </div>
+     </Slide>
 }
 export default Shopping;

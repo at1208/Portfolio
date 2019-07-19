@@ -1,7 +1,9 @@
 import React from 'react';
+import Slide from 'react-reveal/Slide';
 
 const Chillax = () => {
-  return   <div className='  shadow container text-center u1 '>
+  return  <Slide left>
+  <div className='  shadow container text-center u1 '>
       <img className='i1' src=' ' alt=''/>
      <div className='container text-center '>
         <h1 className='v1' >Portfolio</h1>
@@ -22,6 +24,7 @@ const Chillax = () => {
    <div className='r11 col'>
    <h6>Technologies Used</h6>
    <span className='shadow container r102 '> React</span>
+   <span className='shadow container r102 '> React Reveal</span>
    <span className='shadow container r102'> Bootstrap</span>
    <span className='shadow container r102'> Css</span>
 
@@ -29,5 +32,6 @@ const Chillax = () => {
 
       </div>
     </div>
+     </Slide>
 }
 export default Chillax;

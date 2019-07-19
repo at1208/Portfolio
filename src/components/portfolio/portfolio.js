@@ -1,5 +1,6 @@
 import React from 'react';
 import './portfolio.css'
+import Slide from 'react-reveal/Slide';
 import RailTrack from './projects/railtrack'
 import Chillax from './projects/chillax'
 import Shopping from './projects/shopping'

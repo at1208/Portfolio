@@ -1,7 +1,9 @@
 import React from 'react';
+import Slide from 'react-reveal/Slide';
 
 const ChangeLang = () => {
-  return <div className=' shadow container   text-center u1 '>
+  return  <Slide left>
+  <div className=' shadow container   text-center u1 '>
                   <img className='     i1' src='changelang.gif' alt=''/>
                   <div className='container text-center '>
                    <h1 className='v1'>Change Lang</h1>
@@ -32,6 +34,7 @@ const ChangeLang = () => {
 
                   </div>
                 </div>
+                  </Slide>
 
 }
 export default ChangeLang;

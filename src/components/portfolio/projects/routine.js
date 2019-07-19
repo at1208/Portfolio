@@ -1,7 +1,9 @@
 import React from 'react';
+import Slide from 'react-reveal/Slide';
 
 const Routine = () => {
-  return <div className='  shadow container   text-center u1 '>
+  return   <Slide left>
+  <div className='  shadow container   text-center u1 '>
                   <img className='     i1' src='routine.gif' alt=''/>
                   <div className='container text-center  '>
                    <h1 className='v1'>Routine</h1>
@@ -28,6 +30,7 @@ const Routine = () => {
 
                   </div>
                 </div>
+                 </Slide>
 
 }
 export default Routine;
