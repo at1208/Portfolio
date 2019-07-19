@@ -94,6 +94,7 @@ font-weight: bold;
 }
 .c100{
   font-size: 14px;
+  margin-top:13px;
 
 }
 .c101{
@@ -123,13 +124,11 @@ font-weight: bold;
 }
 
 .v11{
-  padding-top: 20px;
- 
-  height: 300px;
+  padding-top: 5px;
+  height: 250px;
 }
 .v12{
  font-family: 'Poiret One', cursive;
-
 
 }
 .v13{

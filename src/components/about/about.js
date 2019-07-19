@@ -37,7 +37,8 @@ const About = () => {
                      <div className='container c1'>
             <i className='fa fa-university float-left'style={{fontSize:'25px'}} ></i>
             <h6 className='c100' >BTech, Computer Science<h6  className='c101' >2018-2022</h6></h6>
-            <h6 className='c100'  >New Delhi, India   <img src='india.png' className='m11' alt=''/></h6>
+            <img src='india.png' className='m11 float-left' alt=''/>
+            <h6 className='c100'  >New Delhi, India </h6>
                      </div>
 
 
