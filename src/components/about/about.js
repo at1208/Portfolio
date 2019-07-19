@@ -10,13 +10,13 @@ import Slide from 'react-reveal/Slide';
 
 const About = () => {
   return <div >
-
+    <Slide left>
             <div className='container-fluid text-center justify-content-center'>
- <Zoom  >
-                    <img className="h3 shadow " src="aman.jpg"  alt='' />
-        </Zoom>
-            </div>
 
+                    <img className="h3 shadow " src="aman.jpg"  alt='' />
+
+            </div>
+  </Slide>
 
             <div className='container justify-content-center text-center shadow v11 '>
 
@@ -33,7 +33,7 @@ const About = () => {
                         <p className='c100'>I'm a 2nd year undergraduate engineering student</p>
 
                      </div>
- 
+
                      <div className='container c1'>
             <i className='fa fa-university float-left'style={{fontSize:'25px'}} ></i>
             <h6 className='c100' >BTech, Computer Science<h6  className='c101' >2018-2022</h6></h6>

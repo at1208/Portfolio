@@ -1,9 +1,8 @@
 import React from 'react';
-import Slide from 'react-reveal/Slide';
+
 
 const Season = () => {
-  return    <Slide left>
-  <div className='  shadow container   text-center u1 '>
+  return   <div className='  shadow container   text-center u1 '>
       <img className='     i1' src='season.gif' alt=''/>
       <div className='container text-center   '>
       <h1 className='v1'>Season</h1>
@@ -35,7 +34,7 @@ const Season = () => {
 
       </div>
     </div>
-     </Slide>
+ 
 
 }
 export default Season;

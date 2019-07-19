@@ -1,9 +1,8 @@
 import React from 'react';
-import Slide from 'react-reveal/Slide';
+
 
 const MusicAlbums = () => {
-  return   <Slide left>
-  <div className='  shadow container   text-center u1 '>
+  return <div className='  shadow container   text-center u1 '>
       <img className='     i1' src='musicalbums.gif' alt=''/>
       <div className='container text-center  '>
       <h1 className='v1'>MusicAlbums</h1>
@@ -33,7 +32,7 @@ const MusicAlbums = () => {
 
       </div>
     </div>
-     </Slide>
+ 
 
 }
 export default MusicAlbums;

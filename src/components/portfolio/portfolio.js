@@ -1,6 +1,7 @@
 import React from 'react';
 import './portfolio.css'
 import Slide from 'react-reveal/Slide';
+
 import RailTrack from './projects/railtrack'
 import Chillax from './projects/chillax'
 import Shopping from './projects/shopping'
@@ -21,22 +22,66 @@ import Portfolio from './projects/portfolio'
 const About = () => {
   return <div className='container-fluid' >
          <div className='row justify-content-center'>
-        <Starwar />
-        <RailTrack />
-        <TechStack />
-        <Shopping />
-        <Chillax />
-        <ChangeLang />
-        <Portfolio />
-        <Songs />
-        <SearchBar />
-        <Season />
-        <DailyNews />
-        <MusicAlbums />
-        <Routine />
-        <WeatherFinder />
-        <Bytebroo />
 
+          <Slide left>
+            <Starwar />
+          </Slide>
+
+          <Slide left>
+            <RailTrack />
+          </Slide>
+
+          <Slide left>
+            <TechStack />
+          </Slide>
+
+          <Slide left>
+            <Shopping />
+          </Slide>
+
+          <Slide left>
+            <Chillax />
+          </Slide>
+
+          <Slide left>
+            <ChangeLang />
+          </Slide>
+
+          <Slide left>
+            <Portfolio />
+          </Slide>
+
+          <Slide left>
+            <Songs />
+          </Slide>
+
+          <Slide left>
+            <SearchBar />
+          </Slide>
+
+          <Slide left>
+            <Season />
+          </Slide>
+
+          <Slide left>
+            <DailyNews />
+          </Slide>
+
+          <Slide left>
+            <MusicAlbums />
+          </Slide>
+
+          <Slide left>
+            <Routine />
+          </Slide>
+
+          <Slide left>
+            <WeatherFinder />
+          </Slide>
+          
+          <Slide left>
+            <Bytebroo />
+          </Slide>
 
 
          </div>

@@ -1,9 +1,8 @@
 import React from 'react';
-import Slide from 'react-reveal/Slide';
+
 
 const TechStack = () => {
-  return     <Slide left>
-   <div className='   shadow container  text-center u1 '>
+  return     <div className='   shadow container  text-center u1 '>
                                 <img className='    i1' src='techstack.gif' alt=''/>
                                 <div className='container text-center    '>
                                   <h1 className='v1'>Techstack</h1>
@@ -34,6 +33,6 @@ const TechStack = () => {
 
                                 </div>
                               </div>
-                               </Slide>
+         
 }
 export default TechStack;
