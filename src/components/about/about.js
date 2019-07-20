@@ -4,20 +4,20 @@ import Facebook from './facebook'
 import Github from './github';
 import Linkedin from './linkedin'
 import { Link } from 'react-router-dom'
- import Zoom from 'react-reveal/Zoom';
+import Fade from 'react-reveal/Fade';
 import Slide from 'react-reveal/Slide';
 
 
 const About = () => {
-  return <div >
-    <Slide left>
+  return <div>
+
             <div className='container-fluid text-center justify-content-center'>
-
+<Fade left>
                     <img className="h3 shadow " src="aman.jpg"  alt='' />
-
+  </Fade>
             </div>
-  </Slide>
 
+<Slide left>
             <div className='container justify-content-center text-center shadow v11 '>
 
               <h1 className='v12'>Who's this Guy ?</h1>
@@ -28,7 +28,7 @@ const About = () => {
                   <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook/> </a>
                   </div>
 
-             <br />
+
                      <div className='container'>
                         <p className='c100'>I'm a 2nd year undergraduate engineering student</p>
 
@@ -44,7 +44,7 @@ const About = () => {
 
             </div>
 
-
+  </Slide>
 
 
          <div className='container shadow j1 j100 '>

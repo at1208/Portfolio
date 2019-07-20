@@ -44,6 +44,7 @@
 }
 .f101{
   font-size: 12px;
+
 }
 .h6{
   width:90px;
@@ -125,10 +126,13 @@ font-weight: bold;
 
 .v11{
   padding-top: 5px;
-  height: 250px;
+  height: 220px;
+
 }
+
 .v12{
  font-family: 'Poiret One', cursive;
+ font-size: 35px;
 
 }
 .v13{
