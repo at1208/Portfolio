@@ -18,7 +18,7 @@ const MyTutor247 = () => {
                          <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
                          13 Sept 2019
                           </span>
-                            <div className='container shadow l2 n1'> <i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/SearchBar'>https://github.com/at1208/myTutor247</a> </div>
+                            <div className='container shadow l2 n1'> <i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/myTutor247'>https://github.com/at1208/myTutor247</a> </div>
                      </div>
 
                      <div className='r11 col'>
