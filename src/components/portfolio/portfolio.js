@@ -17,11 +17,16 @@ import DailyNews from './projects/dailynews'
 import Routine from './projects/routine'
 import MusicAlbums from './projects/musicalbums'
 import Portfolio from './projects/portfolio'
+import MyTutor247 from './projects/mytutor247'
 
 
 const About = () => {
   return <div className='container-fluid' >
          <div className='row justify-content-center'>
+
+         <Slide left>
+           <MyTutor247 />
+         </Slide>
 
           <Slide left>
             <Starwar />
@@ -78,7 +83,7 @@ const About = () => {
           <Slide left>
             <WeatherFinder />
           </Slide>
-          
+
           <Slide left>
             <Bytebroo />
           </Slide>
