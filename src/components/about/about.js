@@ -12,9 +12,9 @@ const About = () => {
   return <div>
 
             <div className='container-fluid text-center justify-content-center'>
-<Fade left>
+<Slide left>
                     <img className="h3 shadow " src="aman.jpg"  alt='' />
-  </Fade>
+</Slide>
             </div>
 
 <Slide left>
