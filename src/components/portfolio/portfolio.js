@@ -18,11 +18,16 @@ import Routine from './projects/routine'
 import MusicAlbums from './projects/musicalbums'
 import Portfolio from './projects/portfolio'
 import MyTutor247 from './projects/mytutor247'
+import CustomerManager from './projects/customermanager'
 
 
 const About = () => {
   return <div className='container-fluid' >
          <div className='row justify-content-center'>
+
+         <Slide left>
+           <CustomerManager />
+         </Slide>
 
          <Slide left>
            <MyTutor247 />
