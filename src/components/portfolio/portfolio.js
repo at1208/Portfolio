@@ -17,6 +17,7 @@ import DailyNews from './projects/dailynews'
 import Routine from './projects/routine'
 import MusicAlbums from './projects/musicalbums'
 import Portfolio from './projects/portfolio'
+import EventOrganiser from './projects/eventorganiser'
 import MyTutor247 from './projects/mytutor247'
 import CustomerManager from './projects/customermanager'
 
@@ -59,6 +60,10 @@ const About = () => {
 
           <Slide left>
             <Portfolio />
+          </Slide>
+
+          <Slide left>
+            <EventOrganiser />
           </Slide>
 
           <Slide left>
