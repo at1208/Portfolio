@@ -3,7 +3,7 @@ import React from 'react';
 
 const EventOrganiser = () => {
   return   <div className='  shadow container   text-center u1 '>
-      <img className='     i1' src=' ' alt=''/>
+      <img className='     i1' src='eventorganiser.gif' alt=''/>
       <div className='container text-center   '>
       <h1 className='v1'>Event Organiser</h1>
         <hr />
