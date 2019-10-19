@@ -11,17 +11,13 @@ import Slide from 'react-reveal/Slide';
 const About = () => {
   return <div>
 
-            <div className='container-fluid text-center justify-content-center'>
-<Slide left>
-                    <img className="h3 shadow " src="aman.jpg"  alt='' />
-</Slide>
-            </div>
+            <Slide left>
+              <div className='container-fluid text-center'>
+                <img className="h3 shadow " src="aman.jpg"  alt='' />
+              </div>
 
-<Slide left>
             <div className='container justify-content-center text-center shadow v11 '>
-
               <h1 className='v12'>Who's this Guy ?</h1>
-
                   <div className='container'>
                 <a href='https://github.com/at1208'><Github /></a>
                 <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin/> </a>

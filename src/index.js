@@ -13,7 +13,7 @@ ReactDOM.render(  <div>
                   <div>
 
                   <Route path='/' component={Home}/>
-                  <Route path='/about' component={About}/>
+                  <Route path='/about'  exact component={About}/>
                   <Route path='/contact' component={Contact}/>
 
                   <Route path='/portfolio' component={Portfolio}/>
