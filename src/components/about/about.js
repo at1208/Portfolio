@@ -22,8 +22,9 @@ const About = () => {
                   <div className='container'>
                 <a href='https://github.com/at1208'><Github /></a>
                 <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin /> </a>
+                  <a href='https://www.quora.com/profile/Aman-Tiwari-85'> <Quora /> </a>
                   <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook /> </a>
-                    <a href='https://www.quora.com/profile/Aman-Tiwari-85'> <Quora /> </a>
+
                   </div>
 
 
