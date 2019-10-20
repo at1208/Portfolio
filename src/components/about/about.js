@@ -3,6 +3,7 @@ import './about.css'
 import Facebook from './facebook'
 import Github from './github';
 import Linkedin from './linkedin'
+import Quora from './quora'
 import { Link } from 'react-router-dom'
 import Fade from 'react-reveal/Fade';
 import Slide from 'react-reveal/Slide';
@@ -20,8 +21,9 @@ const About = () => {
               <h1 className='v12'>Who's this Guy ?</h1>
                   <div className='container'>
                 <a href='https://github.com/at1208'><Github /></a>
-                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin/> </a>
-                  <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook/> </a>
+                <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin /> </a>
+                  <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook /> </a>
+                    <a href='https://www.quora.com/profile/Aman-Tiwari-85'> <Quora /> </a>
                   </div>
 
 
