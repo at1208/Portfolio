@@ -24,7 +24,7 @@ const About = () => {
                   <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook /> </a>
            </div>
            <div className='container'>
-               <p className='c100'>I'm a 2nd year undergraduate engineering student</p>
+               <p className='c100'>I'm a Senior undergraduate engineering student</p>
                <div className='container c1'>
 
                   <h6 className='c100' ><i className='fa fa-university   c1000'style={{fontSize:'25px', marginRight:"0px"}} ></i>BTech, Computer Science<h6  className='c101' >    </h6></h6>
