@@ -7,6 +7,14 @@
   /* border-radius: 6px 6px 6px 6px; */
 
 }
+
+.z1{
+  color: #444649;
+  font-size: 25pt;
+  font-family: 'Raleway', sans-serif;
+
+}
+
 @media (max-width: 759px) {
   .u1{
 

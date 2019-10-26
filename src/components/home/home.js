@@ -16,12 +16,12 @@ const App = () => {
                      <div className=''>
                         <Link to='/about'  ><Button name='About'/></Link>
                      </div>
+
                      <div className=''>
                         <Link to='/portfolio'><Button name='Portfolio'/></Link>
                      </div>
 
-                   
-
+                     
                      <div className=''>
                         <Link to='/contact'><Button name='Contact'/></Link>
                      </div>

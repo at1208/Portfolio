@@ -24,7 +24,10 @@ import CustomerManager from './projects/customermanager'
 
 const About = () => {
   return <div className='container-fluid' >
+                 <h1 className='text-center z11'>PROJECTS</h1>
+                      <hr />
          <div className='row justify-content-center'>
+
 
          <Slide left>
            <CustomerManager />
