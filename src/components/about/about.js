@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css'
-import Facebook from './facebook'
+
 import Github from './github';
 import Linkedin from './linkedin'
 import Quora from './quora'
@@ -21,7 +21,7 @@ const About = () => {
                   <a href='https://github.com/at1208'><Github /></a>
                   <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin /> </a>
                   <a href='https://www.quora.com/profile/Aman-Tiwari-85'> <Quora /> </a>
-                  <a href='https://www.facebook.com/profile.php?id=100025916961705'> <Facebook /> </a>
+             
            </div>
            <div className='container'>
                <p className='c100'>I'm a Senior undergraduate engineering student</p>
