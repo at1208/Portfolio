@@ -19,7 +19,10 @@ import MusicAlbums from './projects/musicalbums'
 import Portfolio from './projects/portfolio'
 import EventOrganiser from './projects/eventorganiser'
 import MyTutor247 from './projects/mytutor247'
+import Calculator from './projects/calculator'
 import CustomerManager from './projects/customermanager'
+import SendSMS from './projects/sendSMS'
+
 
 
 const About = () => {
@@ -29,6 +32,11 @@ const About = () => {
          <div className='row justify-content-center'>
 
 
+          <Slide left>
+            <SendSMS />
+          </Slide>
+
+
          <Slide left>
            <CustomerManager />
          </Slide>
@@ -36,6 +44,11 @@ const About = () => {
          <Slide left>
            <MyTutor247 />
          </Slide>
+
+         <Slide left>
+           <Calculator />
+         </Slide>
+
 
           <Slide left>
             <Starwar />
