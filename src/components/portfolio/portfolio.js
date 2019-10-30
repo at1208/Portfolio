@@ -42,11 +42,12 @@ const About = () => {
          </Slide>
 
          <Slide left>
-           <MyTutor247 />
+           <Calculator />
          </Slide>
 
+
          <Slide left>
-           <Calculator />
+           <MyTutor247 />
          </Slide>
 
 
