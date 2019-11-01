@@ -22,6 +22,7 @@ import MyTutor247 from './projects/mytutor247'
 import Calculator from './projects/calculator'
 import CustomerManager from './projects/customermanager'
 import SendSMS from './projects/sendSMS'
+import SendMail from './projects/sendmail'
 
 
 
@@ -30,6 +31,10 @@ const About = () => {
                  <h1 className='text-center z11'>PROJECTS</h1>
                       <hr />
          <div className='row justify-content-center'>
+
+         <Slide left>
+           <SendMail />
+         </Slide>
 
 
           <Slide left>

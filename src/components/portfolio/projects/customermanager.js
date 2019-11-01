@@ -18,7 +18,7 @@ const  CustomerManager = () => {
             <span  className='container shadow col-xm l1' style={{  fontWeight:'bold' }}>
             12 Oct 2019
              </span>
-               <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/CustomerManager'>https://github.com/at1208/CustomerMan</a></div>
+               <div className='container shadow n1 l2'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/CustomerManager'>https://github.com/at1208/Customer</a></div>
         </div>
 
         <div className='r11 col'>
