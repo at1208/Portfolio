@@ -1,12 +1,52 @@
 .g100{
   color:black;
-  font-size: 25px;
+  font-size: 30px;
+  font-weight: lighter;
 }
 .g101{
   font-size: 15px;
 }
 .g103{
-  height: 80px;
+
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.g104{
+  padding: 20px;
+}
+.card{
+  border: 0px solid white;
+}
+.g105{
+  margin-bottom: 8px;
+  height: 35px;
+}
+
+.g106{
+  margin-bottom: 8px;
+  height: 35px;
+}
+.g107{
+  margin-bottom: 8px;
+  height: 110px;
+
+}
+.g108{
+ width: 100px;
+ background-color: yellow;
+}
+.g109{
+ width: 100px;
+  background-color: yellow;
+}
+.g111{
+  color: green;
+  font-size: 20px;
+}
+.g112{
+  font-size: 30px;
+}
+.g113{
+  color: red;
+}
+ 
