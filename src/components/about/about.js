@@ -21,7 +21,7 @@ const About = () => {
                   <a href='https://github.com/at1208'><Github /></a>
                   <a href='https://www.linkedin.com/in/aman-tiwari-767a09172/'> <Linkedin /> </a>
                   <a href='https://www.quora.com/profile/Aman-Tiwari-85'> <Quora /> </a>
-             
+
            </div>
            <div className='container'>
                <p className='c100'>I'm a Senior undergraduate engineering student</p>
