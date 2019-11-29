@@ -29,7 +29,8 @@ class Contact extends Component {
   render(){
 
     if(this.state.status === 404){
-      return <div className='container col-md-7'>
+      return <div  className='container'>
+      <div className='container col-md-7 shadow g114'>
       <div className='text-center container-fluid g103 col-md-7 '>
         <Flash>
       <h1 className='g100'>Wanna Work Together ?</h1>
@@ -56,14 +57,15 @@ class Contact extends Component {
 
           <div className='g113'><Icon className='g112' type="close-circle" theme="twoTone" twoToneColor="red" /> Message is not sent</div>
 
-
+     </div>
        </div>
              </div>
     }
 
     if(this.state.status === 400){
 
-          return <div className='container col-md-7'>
+          return<div  className='container '>
+           <div className='container col-md-7 shadow g114'>
           <div className='text-center container-fluid g103 col-md-7 '>
             <Flash>
           <h1 className='g100'>Wanna Work Together ?</h1>
@@ -88,7 +90,7 @@ class Contact extends Component {
               </div>
 <div><Icon className='g112' type="close-circle" theme="twoTone" twoToneColor="#52c41a" /> Message is not sent</div>
            </div>
-
+   </div>
                  </div>
     }
 
@@ -97,7 +99,8 @@ class Contact extends Component {
     }
 
     console.log(this.state.status)
-    return <div className='container col-md-7'>
+    return <div className='container'>
+    <div className='container col-md-7 shadow  g114'>
     <div className='text-center container-fluid g103 col-md-7 '>
       <Flash>
     <h1 className='g100'>Wanna Work Together ?</h1>
@@ -124,7 +127,7 @@ class Contact extends Component {
 
 
      </div>
-
+     </div>
            </div>
   }
 

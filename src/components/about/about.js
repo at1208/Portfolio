@@ -37,7 +37,8 @@ const About = () => {
  </Slide>
 
  <Slide left>
-         <div className='container-fluid shadow j1 j100 col-md-6 float-right'>
+ <div className='container-fluid'>
+         <div className=' shadow j1 j100 col-md-6 float-right'>
 
                <div className="progress h5 ">
                 <Slide left>
@@ -108,7 +109,7 @@ const About = () => {
 
 
 
-
+</div>
          </div>
 
  </Slide>

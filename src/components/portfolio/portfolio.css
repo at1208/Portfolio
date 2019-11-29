@@ -2,6 +2,8 @@
   height:450px;
   width:360px;
   margin: 10px;
+  border-radius: 16px;
+
 
 
   /* border-radius: 6px 6px 6px 6px; */
@@ -17,13 +19,14 @@
 
 @media (max-width: 759px) {
   .u1{
-
+border-radius: 16px;
     margin-bottom: 15px;
 
 
     /* border-radius: 6px 6px 6px 6px; */
 
   }
+
 }
 
 a{

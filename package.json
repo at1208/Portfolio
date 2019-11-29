@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@mojs/core": "^0.288.2",
-    "antd": "^3.24.3",
+    "antd": "^3.25.3",
     "mdbreact": "^4.17.0",
     "rc-tween-one": "^2.6.5",
     "react": "^16.8.6",
