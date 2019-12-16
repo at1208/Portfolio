@@ -1,17 +1,24 @@
 .a1{
-  color:#E31B6D;
+  color: white;
+  /* color:#E31B6D; */
 }
 .a2{
-  height: 400px;
+  height: 100vh;
+    overflow: auto;
   /* position: absolute;
   top: 0;
   bottom: 0; */
   font-family: 'Quicksand', sans-serif;
+  background: #1FA2FF;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .a222{
-  color:white;
+
 }
 .jumbotron{
+  padding-top: 60px;
   margin-bottom: 10px;
   background-color: #130f40;
   border-radius:0px;

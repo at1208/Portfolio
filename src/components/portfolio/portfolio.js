@@ -27,7 +27,7 @@ import SendMail from './projects/sendmail'
 
 
 const About = () => {
-  return <div className='container-fluid' >
+  return <div className='container-fluid xxx' >
                  <h1 className='text-center z11'>PROJECTS</h1>
                       <hr />
          <div className='row justify-content-center'>

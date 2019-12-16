@@ -3,7 +3,7 @@ import React from 'react';
 
 const ChangeLang = () => {
   return <div className=' shadow container   text-center u1 '>
-                  <img className='     i1' src='changelang.gif' alt=''/>
+                  <img className='    i1' src='changelang.gif' alt=''/>
                   <div className='container text-center '>
                    <h1 className='v1'>Change Lang</h1>
                      <hr />
@@ -33,7 +33,7 @@ const ChangeLang = () => {
 
                   </div>
                 </div>
- 
+
 
 }
 export default ChangeLang;

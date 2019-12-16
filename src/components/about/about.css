@@ -134,7 +134,7 @@ font-weight: bold;
 
 .v11{
   padding-top: 5px;
-  border-radius: 16px;
+ 
 }
 
 .v12{
@@ -159,7 +159,7 @@ font-weight: bold;
   .j100{
     margin-right: 50px;
     margin-top: 100px;
-  border-radius: 16px;
+
   }
  }
 
@@ -168,7 +168,7 @@ font-weight: bold;
     align-items: center;
     text-align: center;
      margin-top: 10px;
-  border-radius: 16px;
+
    }
    .col-md-5{
       position: relative;

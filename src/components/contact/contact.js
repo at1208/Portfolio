@@ -30,7 +30,7 @@ class Contact extends Component {
 
     if(this.state.status === 404){
       return <div  className='container'>
-      <div className='container col-md-7 shadow g114'>
+      <div className='container col-md-7   g114'>
       <div className='text-center container-fluid g103 col-md-7 '>
         <Flash>
       <h1 className='g100'>Wanna Work Together ?</h1>
@@ -65,7 +65,7 @@ class Contact extends Component {
     if(this.state.status === 400){
 
           return<div  className='container '>
-           <div className='container col-md-7 shadow g114'>
+           <div className='container col-md-7   g114'>
           <div className='text-center container-fluid g103 col-md-7 '>
             <Flash>
           <h1 className='g100'>Wanna Work Together ?</h1>
@@ -100,7 +100,7 @@ class Contact extends Component {
 
     console.log(this.state.status)
     return <div className='container'>
-    <div className='container col-md-7 shadow  g114'>
+    <div className='container col-md-7    g114'>
     <div className='text-center container-fluid g103 col-md-7 '>
       <Flash>
     <h1 className='g100'>Wanna Work Together ?</h1>
