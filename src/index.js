@@ -11,9 +11,7 @@ import Contact from './components/contact/contact'
 ReactDOM.render(  <div>
                   <BrowserRouter>
                   <div>
-
-                  <Route path='/' component={Home}/>
-                  <Route path='/about'  exact component={About}/>
+                  <Route path='/'  exact component={About}/>
                   <Route path='/contact' component={Contact}/>
 
                   <Route path='/portfolio' component={Portfolio}/>

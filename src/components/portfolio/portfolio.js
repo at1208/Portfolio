@@ -24,103 +24,124 @@ import CustomerManager from './projects/customermanager'
 import SendSMS from './projects/sendSMS'
 import SendMail from './projects/sendmail'
 
-
+import Button from '../common/button'
+import { Link } from 'react-router-dom'
 
 const About = () => {
-  return <div className='container-fluid xxx' >
+
+  return   <div>
+             <div className='a3 container-fluid'>
+               <div className='row justify-content-center'>
+                       <div className=''>
+                          <Link to='/'  ><Button name='About'/></Link>
+                       </div>
+
+                       <div className=''>
+                          <Link to='/portfolio'><Button name='Portfolio'/></Link>
+                       </div>
+
+
+                       <div className=''>
+                          <Link to='/contact'><Button name='Contact'/></Link>
+                       </div>
+
+                </div>
+              </div>
+
+         <div className='container-fluid xxx' >
                  <h1 className='text-center z11'>PROJECTS</h1>
                       <hr />
          <div className='row justify-content-center'>
 
-         <Slide left>
+         <Slide bottom>
            <SendMail />
          </Slide>
 
 
-          <Slide left>
+          <Slide bottom>
             <SendSMS />
           </Slide>
 
 
-         <Slide left>
+         <Slide bottom>
            <CustomerManager />
          </Slide>
 
-         <Slide left>
+         <Slide bottom>
            <Calculator />
          </Slide>
 
 
-         <Slide left>
+         <Slide bottom>
            <MyTutor247 />
          </Slide>
 
 
-          <Slide left>
+          <Slide bottom>
             <Starwar />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <RailTrack />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <TechStack />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Shopping />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Chillax />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <ChangeLang />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Portfolio />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <EventOrganiser />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Songs />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <SearchBar />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Season />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <DailyNews />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <MusicAlbums />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Routine />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <WeatherFinder />
           </Slide>
 
-          <Slide left>
+          <Slide bottom>
             <Bytebroo />
           </Slide>
 
-
+     </div>
          </div>
          </div>
 }

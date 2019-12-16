@@ -1,6 +1,7 @@
 .u1{
-  height:450px;
-  width:360px;
+  padding-bottom: 20px;
+  width:350px;
+  height: 450px;
   margin: 10px;
   border-radius: 16px;
 
@@ -26,6 +27,7 @@ border-radius: 16px;
     /* border-radius: 6px 6px 6px 6px; */
 
   }
+
 
 }
 
@@ -68,8 +70,8 @@ a:hover{
 
 } */
 .i1{
-  height:200px;
-  width:320px;
+  height:170px;
+
   margin-top: 10px;
 
 
@@ -94,14 +96,14 @@ a:hover{
 }
 .l1{
   font-size: 12px;
-  margin: 11px;
 
 
+  color: black;
   /* background-color: yellow; */
 
 }
 .l2{
-  margin-top:4px;
+  margin-top:7px;
   font-size: 12px;
 
 
@@ -153,35 +155,35 @@ a:hover{
   font-size: 13px;
 }
 .r100{
-  margin: 10px;
+  margin: 1px;
   background-color:  Chartreuse;
   /* border-bottom-style: solid;
   border-bottom-color: Chartreuse; */
   font-weight: bold;
 }
 .r101{
-  margin: 10px;
+  margin: 1px;
   background-color: Aqua;
   /* border-bottom-style: solid;
   border-bottom-color: Aqua; */
     font-weight: bold;
 }
 .r102{
-  margin: 10px;
+  margin: 1px;
   background-color:DeepPink;
   /* border-bottom-style: solid;
   border-bottom-color: DeepPink; */
     font-weight: bold;
 }
 .r103{
-  margin: 10px;
+  margin: 1px;
   background-color:Orange;
   /* border-bottom-style: solid;
   border-bottom-color: Orange; */
     font-weight: bold;
 }
 .r104{
-  margin: 10px;
+  margin: 1px;
     background-color:Red;
   /* border-bottom-style: solid;
   border-bottom-color:  Red; */
@@ -189,30 +191,40 @@ a:hover{
     font-weight: bold;
 }
 .r105{
-  margin: 10px;
+  margin: 1px;
   background-color:DodgerBlue;
   /* border-bottom-style: solid;
   border-bottom-color: DodgerBlue; */
     font-weight: bold;
 }
 .r106{
-  margin: 10px;
+  margin: 1px;
   background-color:Chartreuse;
   /* border-bottom-style: solid;
   border-bottom-color: Chartreuse; */
     font-weight: bold;
 }
 .r107{
-  margin: 7px;
+  margin: 1px;
   background-color: Aqua;
   /* border-bottom-style: solid;
   border-bottom-color: Aqua; */
     font-weight: bold;
 }
 .r108{
-  margin: 10px;
+  margin: 1px;
   background-color:DeepPink;
   /* border-bottom-style: solid;
   border-bottom-color: DeepPink; */
     font-weight: bold;
+}
+.l3{
+  margin: 12px;
+}
+.xxx{
+  background-color:#f5f5f5
+}
+.z11{
+ padding-top: 20px;
+ 
 }

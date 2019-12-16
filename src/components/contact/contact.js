@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 import './contact.css'
+
 import Flash from 'react-reveal/Flash';
-import { Input, Select, Icon, Button  } from 'antd';
+import { Input, Select, Icon  } from 'antd';
+import { Link } from 'react-router-dom'
+import Button from '../common/button'
 import 'antd/dist/antd.css';
 const { TextArea } = Input;
+
 
 
 
@@ -29,7 +33,26 @@ class Contact extends Component {
   render(){
 
     if(this.state.status === 404){
-      return <div  className='container'>
+      return  <div>
+      <div className='a3 container-fluid'>
+         <div className='row justify-content-center'>
+                 <div className=''>
+                    <Link to='/'  ><Button name='About'/></Link>
+                 </div>
+
+                 <div className=''>
+                    <Link to='/portfolio'><Button name='Portfolio'/></Link>
+                 </div>
+
+
+                 <div className=''>
+                    <Link to='/contact'><Button name='Contact'/></Link>
+                 </div>
+
+          </div>
+        </div>
+
+      <div  className='container'>
       <div className='container col-md-7   g114'>
       <div className='text-center container-fluid g103 col-md-7 '>
         <Flash>
@@ -59,12 +82,33 @@ class Contact extends Component {
 
      </div>
        </div>
+          </div>
              </div>
     }
 
     if(this.state.status === 400){
 
-          return<div  className='container '>
+          return  <div>
+           <div className='a3 container-fluid'>
+               <div className='row justify-content-center'>
+                       <div className=''>
+                          <Link to='/'  ><Button name='About'/></Link>
+                       </div>
+
+                       <div className=''>
+                          <Link to='/portfolio'><Button name='Portfolio'/></Link>
+                       </div>
+
+
+                       <div className=''>
+                          <Link to='/contact'><Button name='Contact'/></Link>
+                       </div>
+
+                </div>
+              </div>
+
+
+          <div  className='container '>
            <div className='container col-md-7   g114'>
           <div className='text-center container-fluid g103 col-md-7 '>
             <Flash>
@@ -91,15 +135,56 @@ class Contact extends Component {
 <div><Icon className='g112' type="close-circle" theme="twoTone" twoToneColor="#52c41a" /> Message is not sent</div>
            </div>
    </div>
+      </div>
                  </div>
     }
 
     if(this.state.status === 200){
-          return <div className='container text-center g111'>    <Icon type="check-circle" className='g112' theme="twoTone" twoToneColor="#52c41a" /> Message sent</div>
+          return  <div>
+          <div className='a3 container-fluid'>
+               <div className='row justify-content-center'>
+                       <div className=''>
+                          <Link to='/'  ><Button name='About'/></Link>
+                       </div>
+
+                       <div className=''>
+                          <Link to='/portfolio'><Button name='Portfolio'/></Link>
+                       </div>
+
+
+                       <div className=''>
+                          <Link to='/contact'><Button name='Contact'/></Link>
+                       </div>
+
+                </div>
+              </div>
+
+          <div className='container text-center g111'>    <Icon type="check-circle" className='g112' theme="twoTone" twoToneColor="#52c41a" /> Message sent</div>
+          </div>
     }
 
     console.log(this.state.status)
-    return <div className='container'>
+    return  <div>
+      <div className='a3 container-fluid'>
+                 <div className='row justify-content-center'>
+                         <div className=''>
+                            <Link to='/'  ><Button name='About'/></Link>
+                         </div>
+
+                         <div className=''>
+                            <Link to='/portfolio'><Button name='Portfolio'/></Link>
+                         </div>
+
+
+                         <div className=''>
+                            <Link to='/contact'><Button name='Contact'/></Link>
+                         </div>
+
+                  </div>
+                </div>
+
+
+     <div className='container'>
     <div className='container col-md-7    g114'>
     <div className='text-center container-fluid g103 col-md-7 '>
       <Flash>
@@ -121,11 +206,11 @@ class Contact extends Component {
         </div>
 
         <div style={{ marginBottom: 16 }}>
-         <Button type="primary" onClick={this.onSendMail}> Send me</Button>
+         <button type="primary" onClick={this.onSendMail}> Send me</button>
         </div>
 
 
-
+ </div>
      </div>
      </div>
            </div>

@@ -2,23 +2,23 @@ import React from 'react';
 
 
 const Starwar = () => {
-  return    <div className='  shadow container text-center u1 '>
-      <img className='i1' src='starwar.gif' alt=''/>
+  return    <div className='  card shadow container text-center u1 '>
+      <img className='i1  card' src='starwar.gif' alt=''/>
      <div className='container text-center '>
         <h1 className='v1' >Starwars</h1>
         <hr />
 
             <a  href='https://starrwar.netlify.com' className='shadow p2 '>View Live</a>
 
-       <div  >
-           <span  className='container shadow l1'>
+       <div  className='l3'>
+           <span  className='container   l1'>
             <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' ' }}></i>
             First Released
            </span>
-           <span  className='container shadow   l1' style={{  fontWeight:'bold' }}>
+           <span  className='container     l1' style={{  fontWeight:'bold' }}>
            13 Jul 2019
            </span>
-          <div className='container shadow l2 n1'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/StarWar'>https://github.com/at1208/StarWar</a></div>
+          <div className='container   l2 n1'><i className='fa fa-github' style={{ fontSize: '14px'}}/> <a href='https://github.com/at1208/StarWar'>https://github.com/at1208/StarWar</a></div>
        </div>
    <div className='r11 col'>
    <h6>Technologies Used</h6>
@@ -31,6 +31,6 @@ const Starwar = () => {
 
       </div>
     </div>
- 
+
 }
 export default Starwar;

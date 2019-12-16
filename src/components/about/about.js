@@ -7,12 +7,34 @@ import Quora from './quora'
 import { Link } from 'react-router-dom'
 import Fade from 'react-reveal/Fade';
 import Slide from 'react-reveal/Slide';
+import Button from '../common/button'
 
 
 const About = () => {
   return <div>
 
- <Slide left>
+
+
+           <div className='a3 container-fluid'>
+             <div className='row justify-content-center'>
+                     <div className=''>
+                        <Link to='/'  ><Button name='About'/></Link>
+                     </div>
+
+                     <div className=''>
+                        <Link to='/portfolio'><Button name='Portfolio'/></Link>
+                     </div>
+
+
+                     <div className=''>
+                        <Link to='/contact'><Button name='Contact'/></Link>
+                     </div>
+
+              </div>
+            </div>
+
+
+ <Slide bottom>
         <div className='container-fluid text-center col-md-5 float-left ab1'>
         <img className="h3 shadow " src="aman.jpg"  alt='' />
         <div className='container justify-content-center text-center shadow v11 '>
@@ -36,7 +58,7 @@ const About = () => {
         </div>
  </Slide>
 
- <Slide left>
+ <Slide bottom>
  <div className='container-fluid'>
          <div className=' shadow j1 j100 col-md-6 float-right'>
 
