@@ -55,4 +55,6 @@
 
  .sendButton{
    background-color: rgb(0, 115, 177);
+   color: white;
+   font-weight: lighter;
  }

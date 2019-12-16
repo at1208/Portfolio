@@ -206,7 +206,7 @@ class Contact extends Component {
         </div>
 
         <div style={{ marginBottom: 16 }}>
-         <button type="primary" onClick={this.onSendMail}> Send me</button>
+         <button  className='sendButton btn' onClick={this.onSendMail}> Send me</button>
         </div>
 
 
