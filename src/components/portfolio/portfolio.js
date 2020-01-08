@@ -22,7 +22,8 @@ import MyTutor247 from './projects/mytutor247'
 import Calculator from './projects/calculator'
 import CustomerManager from './projects/customermanager'
 import SendSMS from './projects/sendSMS'
-import SendMail from './projects/sendmail'
+import SendMail from './projects/sendmail';
+import InstagramUI from './projects/instagramUI'
 
 import Button from '../common/button'
 import { Link } from 'react-router-dom'
@@ -83,6 +84,10 @@ const About = () => {
 
           <Slide bottom>
             <RailTrack />
+          </Slide>
+
+          <Slide bottom>
+            <InstagramUI />
           </Slide>
 
           <Slide bottom>
