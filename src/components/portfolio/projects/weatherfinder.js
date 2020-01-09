@@ -8,7 +8,7 @@ const WeatherFinder = () => {
                     <h1 className='v1'>Weather Finder</h1>
                       <hr />
 
-
+          <a  href='https://weatherfinderr.netlify.com/' className='shadow p2 '>View Live</a>
                       <div className='l3'>
                           <span  className='container   col-xm l1'>
                            <i className='fa fa-calendar-check' style={{ marginRight: '10px', color: ' '}}></i>
