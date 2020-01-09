@@ -23,7 +23,8 @@ import Calculator from './projects/calculator'
 import CustomerManager from './projects/customermanager'
 import SendSMS from './projects/sendSMS'
 import SendMail from './projects/sendmail';
-import InstagramUI from './projects/instagramUI'
+import InstagramUI from './projects/instagramUI';
+import WhatsappUI from './projects/whatsappUI'
 
 import Button from '../common/button'
 import { Link } from 'react-router-dom'
@@ -88,6 +89,10 @@ const About = () => {
 
           <Slide bottom>
             <InstagramUI />
+          </Slide>
+
+          <Slide bottom>
+            <WhatsappUI />
           </Slide>
 
           <Slide bottom>
