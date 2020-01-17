@@ -92,69 +92,30 @@ const About = () => {
             <RailTrack />
           </Slide>
 
-          <Slide bottom>
-            <InstagramUI />
-          </Slide>
+     
 
-          <Slide bottom>
-            <WhatsappUI />
-          </Slide>
 
-          <Slide bottom>
-            <TechStack />
-          </Slide>
 
-          <Slide bottom>
-            <Shopping />
-          </Slide>
 
           <Slide bottom>
             <Chillax />
           </Slide>
 
-          <Slide bottom>
-            <ChangeLang />
-          </Slide>
+
 
           <Slide bottom>
             <Portfolio />
           </Slide>
 
-          <Slide bottom>
-            <EventOrganiser />
-          </Slide>
-
-          <Slide bottom>
-            <Songs />
-          </Slide>
-
-          <Slide bottom>
-            <SearchBar />
-          </Slide>
-
-          <Slide bottom>
-            <Season />
-          </Slide>
 
           <Slide bottom>
             <DailyNews />
           </Slide>
 
           <Slide bottom>
-            <MusicAlbums />
-          </Slide>
-
-          <Slide bottom>
-            <Routine />
-          </Slide>
-
-          <Slide bottom>
             <WeatherFinder />
           </Slide>
 
-          <Slide bottom>
-            <Bytebroo />
-          </Slide>
 
      </div>
          </div>
